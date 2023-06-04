@@ -1,0 +1,23 @@
+.bg-white {
+  background-color: #fff;
+}
+
+.custom-list li div {
+  padding: 8px 24px 8px 24px;
+}
+
+.font-weight-normal-bold {
+  font-weight: 500;
+}
+
+.has-focus:focus-visible {
+  outline: 1px dashed #2f86dd !important;
+}
+
+.pointer-event-none {
+  pointer-events: none;
+}
+
+.text-white {
+  color: #fff;
+}

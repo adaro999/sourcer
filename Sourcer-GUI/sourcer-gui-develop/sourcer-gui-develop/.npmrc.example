@@ -1,0 +1,4 @@
+v16.18.0
+@jobtarget:registry=https://gitlab.com/api/v4/packages/npm/
+//gitlab.com/api/v4/packages/npm/:_authToken=<REPLACE WITH GITLAB TOKEN>
+//gitlab.com/api/v4/projects/32836997/packages/npm/:_authToken=<REPLACE WITH GITLAB TOKEN>

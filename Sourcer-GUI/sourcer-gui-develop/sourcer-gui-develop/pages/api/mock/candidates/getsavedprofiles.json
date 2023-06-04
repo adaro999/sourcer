@@ -1,0 +1,330 @@
+{
+  "card": [
+    {
+      "education": [
+        {
+          "degrees": ["Bachelor of Sciences Mechanical Engineering"],
+          "end_date": "",
+          "school": {
+            "location": "Milwaukee, US",
+            "name": "University of Wisconsin"
+          },
+          "start_date": ""
+        }
+      ],
+      "id": "ind_48f45ff009c0caf5",
+      "job": [
+        {
+          "title": {
+            "levels": ["", "Aerospace Tooling Engineer", "R&D Mechanical Engineer – Size Reduction"],
+            "name": "Aerospace Tooling Engineer"
+          }
+        }
+      ],
+      "labels": {
+        "candidate_id": "",
+        "contact_score": "",
+        "date_score": "",
+        "experience_years": "",
+        "final_score": "",
+        "last_updated": "2022-05-03T04:35:46.014Z",
+        "salary": "",
+        "tdfidf": "",
+        "unlock_status": ""
+      },
+      "location": "Seattle, US",
+      "name": { "first_name": "confidential" },
+      "skills": [],
+      "integrationImageLink": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/a5d3ceab8ffc0d5e24297320fb0c79bd",
+      "saved": true,
+      "notes": "",
+      "unlocked": false
+    },
+    {
+      "id": "pdl_fQOWNVaWjsHlKvwusEMNDw_0000",
+      "name": { "first_name": "yane", "last_name": "febles" },
+      "skills": [],
+      "education": [],
+      "location": "miami, florida",
+      "gender": "None",
+      "job": [
+        {
+          "company": {
+            "name": "lakes engineering, inc.",
+            "size": "1-10",
+            "id": "lakes-engineering-inc.",
+            "founded": "None",
+            "industry": null,
+            "location": {
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "street_address": "4870 southwest 72nd avenue"
+            },
+            "website": null,
+            "profiles": ["linkedin.com/company/lakes-engineering-inc.", "linkedin.com/company/15562999"]
+          },
+          "end_date": null,
+          "start_date": "2009-08",
+          "title": { "name": "eit", "functions": [], "levels": [] },
+          "type": null,
+          "is_primary": false,
+          "locations": [
+            {
+              "name": "miami, florida, united states",
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": false
+        },
+        {
+          "company": {
+            "name": "t.y. lin international",
+            "size": "1001-5000",
+            "id": "t-y--lin-international",
+            "founded": "1954",
+            "industry": "civil engineering",
+            "location": {
+              "locality": "san francisco",
+              "region": "california",
+              "country": "united states",
+              "street_address": "345 california street"
+            },
+            "website": "tylin.com",
+            "profiles": ["linkedin.com/company/t-y--lin-international", "facebook.com/tylininternationalgroup", "twitter.com/tyli_group", "linkedin.com/company/27343"]
+          },
+          "end_date": "2009-08",
+          "start_date": "2005-01",
+          "title": {
+            "name": "civil engineer",
+            "functions": ["engineering"],
+            "levels": []
+          },
+          "type": null,
+          "is_primary": false,
+          "locations": [
+            {
+              "name": "miami, florida, united states",
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": false
+        },
+        {
+          "company": {
+            "name": "lakes engineering, inc.",
+            "size": "1-10",
+            "id": "lakes-engineering-inc.",
+            "founded": "None",
+            "industry": null,
+            "location": {
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "street_address": "4870 southwest 72nd avenue"
+            },
+            "website": null,
+            "profiles": ["linkedin.com/company/lakes-engineering-inc.", "linkedin.com/company/15562999"]
+          },
+          "end_date": null,
+          "start_date": "2009-08",
+          "title": {
+            "name": "civil engineer",
+            "functions": ["engineering"],
+            "levels": []
+          },
+          "type": null,
+          "is_primary": true,
+          "locations": [
+            {
+              "name": "miami, florida, united states",
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": ["BRIDGES (15 years professional experience USA) Civil Engineering (1995 - Present)"],
+          "last_updated": "2021-06-01",
+          "most_recent": true
+        }
+      ],
+      "labels": {
+        "last_updated": "2021-06-01",
+        "experience_years": "16.0",
+        "salary": "55,000-70,000",
+        "unlock_status": null,
+        "tdfidf": 0.345,
+        "date_score": 4.5399929762484852e-6,
+        "contact_score": 0.13999999999999999,
+        "final_score": 1.485,
+        "candidate_id": null,
+        "current_job_title_point": 1,
+        "emails": ["yanefebles@yahoo.com"],
+        "blocked_connection": 0,
+        "accepted_connection": 0
+      },
+      "type": "free",
+      "integrationImageLink": "/Web/oc/content/images/globe-icon.svg",
+      "saved": true,
+      "notes": "Added from Ekam",
+      "unlocked": false
+    },
+    {
+      "id": "pdl_-P6LWSKXXbUItad3SlL2-w_0000",
+      "name": { "first_name": "silvana", "last_name": "lavado" },
+      "skills": [],
+      "education": [
+        {
+          "school": {
+            "name": "university of maryland",
+            "type": "post-secondary institution",
+            "id": null,
+            "location": null,
+            "linkedin_id": null,
+            "website": null,
+            "profiles": []
+          },
+          "degrees": [],
+          "start_date": null,
+          "end_date": null,
+          "majors": ["engineering", "project management"],
+          "minors": [],
+          "gpa": null,
+          "summaries": [],
+          "locations": []
+        }
+      ],
+      "location": "miami beach, florida",
+      "gender": "None",
+      "job": [
+        {
+          "company": {
+            "name": "bechtel corporation",
+            "size": "10001+",
+            "id": "bechtel-corporation",
+            "founded": "1898",
+            "industry": "construction",
+            "location": {
+              "locality": "san francisco",
+              "region": "california",
+              "country": "united states",
+              "street_address": "50 beale street"
+            },
+            "website": "bechtel.com",
+            "profiles": ["linkedin.com/company/bechtel-corporation", "facebook.com/bechtelcorp", "twitter.com/bechtel", "linkedin.com/company/3304"]
+          },
+          "start_date": "2015-11-14",
+          "end_date": null,
+          "title": {
+            "name": "civil engineer",
+            "functions": ["engineering"],
+            "levels": []
+          },
+          "type": null,
+          "is_primary": true,
+          "locations": [],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": true
+        },
+        {
+          "company": {
+            "name": "buch construction",
+            "size": "51-200",
+            "id": "buchconstruction",
+            "founded": "1984",
+            "industry": "construction",
+            "location": {
+              "locality": "laurel",
+              "region": "maryland",
+              "country": "united states",
+              "street_address": "11292 buch way"
+            },
+            "website": "buch.us.com",
+            "profiles": ["linkedin.com/company/buchconstruction", "linkedin.com/company/1329493"]
+          },
+          "start_date": "2014-06-06",
+          "end_date": null,
+          "title": {
+            "name": "civil engineer intern",
+            "functions": ["engineering"],
+            "levels": ["training"]
+          },
+          "type": null,
+          "is_primary": false,
+          "locations": [
+            {
+              "name": "miami beach, florida, united states",
+              "locality": "miami beach",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": false
+        }
+      ],
+      "labels": {
+        "last_updated": null,
+        "experience_years": "7.0",
+        "salary": "<20,000",
+        "unlock_status": null,
+        "tdfidf": 0.323,
+        "date_score": 4.5399929762484852e-6,
+        "contact_score": 0.2,
+        "final_score": 1.523,
+        "candidate_id": null,
+        "current_job_title_point": 1,
+        "emails": ["slavado@hotmail.com", "silvana_lavado@yahoo.com", "silvana.lavado@yahoo.com"],
+        "blocked_connection": 0,
+        "accepted_connection": 0
+      },
+      "type": "free",
+      "integrationImageLink": "/Web/oc/content/images/globe-icon.svg",
+      "saved": true,
+      "notes": "added from Ekam",
+      "unlocked": false
+    }
+  ]
+}

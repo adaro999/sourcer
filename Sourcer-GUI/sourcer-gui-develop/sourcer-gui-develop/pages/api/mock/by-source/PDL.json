@@ -1,0 +1,594 @@
+{
+  "connection": {
+    "company_id": "32120",
+    "connection_time": "2022-07-12 14:45:20",
+    "isBlocked": "",
+    "isConnected": "",
+    "isPending": "True",
+    "jobseeker_id": "1907824",
+    "profile_id": "pdl_zpF9K4TWmpLpF8WljJbhtg_0000",
+    "recruiter_id": "1050600",
+    "status": "pending"
+  },
+  "current_job_title": "nurse",
+  "education": [
+    {
+      "degrees": [],
+      "end_date": null,
+      "end_date_score": 0.00000907998595249697,
+      "gpa": null,
+      "majors": [],
+      "minors": [],
+      "school": {
+        "domain": null,
+        "facebook_url": null,
+        "id": null,
+        "linkedin_id": null,
+        "linkedin_url": null,
+        "location": null,
+        "name": "carthage senior high school (carthage, new york)",
+        "twitter_url": null,
+        "type": "secondary school",
+        "website": null
+      },
+      "start_date": null,
+      "summary": null
+    },
+    {
+      "degrees": [],
+      "end_date": null,
+      "end_date_score": 0.00000907998595249697,
+      "gpa": null,
+      "majors": [],
+      "minors": [],
+      "school": {
+        "domain": "esc.edu",
+        "facebook_url": "facebook.com/sunyempire",
+        "id": "AFr5UJFVLKPqLUt86yozLQ_0",
+        "linkedin_id": "19046",
+        "linkedin_url": "linkedin.com/school/empire-state-college",
+        "location": {
+          "continent": "north america",
+          "country": "united states",
+          "locality": "saratoga springs",
+          "name": "saratoga springs, new york, united states",
+          "region": "new york"
+        },
+        "name": "state university of new york empire state college",
+        "twitter_url": "twitter.com/sunyempire",
+        "type": "post-secondary institution",
+        "website": "esc.edu"
+      },
+      "start_date": null,
+      "summary": null
+    }
+  ],
+  "gender": "female",
+  "id": "pdl_zpF9K4TWmpLpF8WljJbhtg_0000",
+  "job": [
+    {
+      "company": {
+        "facebook_url": null,
+        "founded": null,
+        "id": "samaritan-summit-village",
+        "industry": "hospital & health care",
+        "linkedin_id": "63765164",
+        "linkedin_url": "linkedin.com/company/samaritan-summit-village",
+        "location": {
+          "address_line_2": null,
+          "continent": "north america",
+          "country": "united states",
+          "geo": "43.97,-75.91",
+          "locality": "watertown",
+          "metro": "watertown, new york",
+          "name": "watertown, new york, united states",
+          "postal_code": "13601",
+          "region": "new york",
+          "street_address": "22691 campus drive"
+        },
+        "name": "samaritan summit village",
+        "size": "1-10",
+        "twitter_url": null,
+        "website": null
+      },
+      "end_date": null,
+      "end_date_score": 0.00000907998595249697,
+      "is_primary": true,
+      "location_names": ["watertown, new york, united states"],
+      "primary_score": 0,
+      "start_date": null,
+      "summary": null,
+      "title": {
+        "levels": [],
+        "name": "nurse",
+        "role": "health",
+        "sub_role": "nursing"
+      }
+    },
+    {
+      "company": {
+        "facebook_url": null,
+        "founded": null,
+        "id": null,
+        "industry": null,
+        "linkedin_id": null,
+        "linkedin_url": null,
+        "location": null,
+        "name": "the place where i work",
+        "size": null,
+        "twitter_url": null,
+        "website": null
+      },
+      "end_date": null,
+      "end_date_score": 0.00000907998595249697,
+      "is_primary": false,
+      "location_names": ["watertown, new york, united states"],
+      "primary_score": 0,
+      "start_date": null,
+      "summary": null,
+      "title": {
+        "levels": [],
+        "name": "nurse",
+        "role": "health",
+        "sub_role": "nursing"
+      }
+    },
+    {
+      "company": {
+        "facebook_url": "facebook.com/samaritanmedicalcenter",
+        "founded": 1881,
+        "id": "samaritan-medical-center",
+        "industry": "hospital & health care",
+        "linkedin_id": "631180",
+        "linkedin_url": "linkedin.com/company/samaritan-medical-center",
+        "location": {
+          "address_line_2": null,
+          "continent": "north america",
+          "country": "united states",
+          "geo": "43.97,-75.91",
+          "locality": "watertown",
+          "metro": "watertown, new york",
+          "name": "watertown, new york, united states",
+          "postal_code": "13601",
+          "region": "new york",
+          "street_address": "830 washington street"
+        },
+        "name": "samaritan medical center",
+        "size": "1001-5000",
+        "twitter_url": "twitter.com/samaritanmed",
+        "website": "samaritanhealth.com"
+      },
+      "end_date": null,
+      "end_date_score": 0.00000907998595249697,
+      "is_primary": false,
+      "location_names": [],
+      "primary_score": 0,
+      "start_date": null,
+      "summary": null,
+      "title": {
+        "levels": [],
+        "name": "nurse",
+        "role": "health",
+        "sub_role": "nursing"
+      }
+    }
+  ],
+  "labels": {
+    "easy_apply_flag": null,
+    "easy_apply_score": 0,
+    "emails": ["lmajor494@yahoo.com"],
+    "experience_years": "n/a",
+    "last_updated": null,
+    "phone": ["13159558154", "13154934660", "13154937663", "13154930552"],
+    "salary": "n/a",
+    "unlock_status": null
+  },
+  "location": "carthage, new york",
+  "name": {
+    "first_name": "lori",
+    "last_name": "major"
+  },
+  "score": {
+    "active_score": 0,
+    "contact_score": 0.22000000000000003,
+    "date_score": 0.00000907998595249697,
+    "final_score": 3.096018159971905,
+    "job_title_score": 1,
+    "tfidf_score": 0.328
+  },
+  "skills": [],
+  "source": {
+    "birth_date": "n/a",
+    "birth_year": 1964,
+    "certifications": [],
+    "countries": ["united states"],
+    "education": [
+      {
+        "degrees": [],
+        "end_date": null,
+        "end_date_score": 0.00000907998595249697,
+        "gpa": null,
+        "majors": [],
+        "minors": [],
+        "school": {
+          "domain": null,
+          "facebook_url": null,
+          "id": null,
+          "linkedin_id": null,
+          "linkedin_url": null,
+          "location": null,
+          "name": "carthage senior high school (carthage, new york)",
+          "twitter_url": null,
+          "type": "secondary school",
+          "website": null
+        },
+        "start_date": null,
+        "summary": null
+      },
+      {
+        "degrees": [],
+        "end_date": null,
+        "end_date_score": 0.00000907998595249697,
+        "gpa": null,
+        "majors": [],
+        "minors": [],
+        "school": {
+          "domain": "esc.edu",
+          "facebook_url": "facebook.com/sunyempire",
+          "id": "AFr5UJFVLKPqLUt86yozLQ_0",
+          "linkedin_id": "19046",
+          "linkedin_url": "linkedin.com/school/empire-state-college",
+          "location": {
+            "continent": "north america",
+            "country": "united states",
+            "locality": "saratoga springs",
+            "name": "saratoga springs, new york, united states",
+            "region": "new york"
+          },
+          "name": "state university of new york empire state college",
+          "twitter_url": "twitter.com/sunyempire",
+          "type": "post-secondary institution",
+          "website": "esc.edu"
+        },
+        "start_date": null,
+        "summary": null
+      }
+    ],
+    "emails": [
+      {
+        "address": "lmajor494@yahoo.com",
+        "type": "personal"
+      }
+    ],
+    "experience": [
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": null,
+          "id": "samaritan-summit-village",
+          "industry": "hospital & health care",
+          "linkedin_id": "63765164",
+          "linkedin_url": "linkedin.com/company/samaritan-summit-village",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": "43.97,-75.91",
+            "locality": "watertown",
+            "metro": "watertown, new york",
+            "name": "watertown, new york, united states",
+            "postal_code": "13601",
+            "region": "new york",
+            "street_address": "22691 campus drive"
+          },
+          "name": "samaritan summit village",
+          "size": "1-10",
+          "twitter_url": null,
+          "website": null
+        },
+        "end_date": null,
+        "end_date_score": 0.00000907998595249697,
+        "is_primary": true,
+        "location_names": ["watertown, new york, united states"],
+        "primary_score": 0,
+        "start_date": null,
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": null,
+          "id": null,
+          "industry": null,
+          "linkedin_id": null,
+          "linkedin_url": null,
+          "location": null,
+          "name": "the place where i work",
+          "size": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "end_date": null,
+        "end_date_score": 0.00000907998595249697,
+        "is_primary": false,
+        "location_names": ["watertown, new york, united states"],
+        "primary_score": 0,
+        "start_date": null,
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      },
+      {
+        "company": {
+          "facebook_url": "facebook.com/samaritanmedicalcenter",
+          "founded": 1881,
+          "id": "samaritan-medical-center",
+          "industry": "hospital & health care",
+          "linkedin_id": "631180",
+          "linkedin_url": "linkedin.com/company/samaritan-medical-center",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": "43.97,-75.91",
+            "locality": "watertown",
+            "metro": "watertown, new york",
+            "name": "watertown, new york, united states",
+            "postal_code": "13601",
+            "region": "new york",
+            "street_address": "830 washington street"
+          },
+          "name": "samaritan medical center",
+          "size": "1001-5000",
+          "twitter_url": "twitter.com/samaritanmed",
+          "website": "samaritanhealth.com"
+        },
+        "end_date": null,
+        "end_date_score": 0.00000907998595249697,
+        "is_primary": false,
+        "location_names": [],
+        "primary_score": 0,
+        "start_date": null,
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": null,
+          "id": null,
+          "industry": null,
+          "linkedin_id": null,
+          "linkedin_url": null,
+          "location": null,
+          "name": "samaritan keep home",
+          "size": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "end_date": null,
+        "end_date_score": 0.00000907998595249697,
+        "is_primary": false,
+        "location_names": [],
+        "primary_score": 0,
+        "start_date": null,
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      }
+    ],
+    "facebook_id": 100001340273551,
+    "facebook_url": "facebook.com/lori.major.35",
+    "facebook_username": "lori.major.35",
+    "first_name": "lori",
+    "flag": false,
+    "full_name": "lori major",
+    "gender": "female",
+    "github_url": "n/a",
+    "github_username": "n/a",
+    "id": "zpF9K4TWmpLpF8WljJbhtg_0000",
+    "industry": "n/a",
+    "inferred_salary": "n/a",
+    "inferred_years_experience": "n/a",
+    "interests": [],
+    "job_company_facebook_url": "n/a",
+    "job_company_founded": "n/a",
+    "job_company_id": "n/a",
+    "job_company_industry": "n/a",
+    "job_company_linkedin_id": "n/a",
+    "job_company_linkedin_url": "n/a",
+    "job_company_location_address_line_2": "n/a",
+    "job_company_location_continent": "n/a",
+    "job_company_location_country": "n/a",
+    "job_company_location_geo": "n/a",
+    "job_company_location_locality": "n/a",
+    "job_company_location_metro": "n/a",
+    "job_company_location_name": "n/a",
+    "job_company_location_postal_code": "n/a",
+    "job_company_location_region": "n/a",
+    "job_company_location_street_address": "n/a",
+    "job_company_name": "n/a",
+    "job_company_size": "n/a",
+    "job_company_twitter_url": "n/a",
+    "job_company_website": "n/a",
+    "job_last_updated": "n/a",
+    "job_start_date": "n/a",
+    "job_summary": "n/a",
+    "job_title": "nurse",
+    "job_title_levels": [],
+    "job_title_role": "n/a",
+    "job_title_sub_role": "n/a",
+    "languages": [
+      {
+        "name": "english",
+        "proficiency": null
+      }
+    ],
+    "last_initial": "m",
+    "last_name": "major",
+    "linkedin_connections": "n/a",
+    "linkedin_id": "n/a",
+    "linkedin_url": "n/a",
+    "linkedin_username": "n/a",
+    "location_address_line_2": "n/a",
+    "location_continent": "north america",
+    "location_country": "united states",
+    "location_geo": "43.97,-75.60",
+    "location_last_updated": "2020-10-01",
+    "location_locality": "carthage",
+    "location_metro": "watertown, new york",
+    "location_name": "carthage, new york, united states",
+    "location_names": ["carthage, new york, united states"],
+    "location_postal_code": 13619,
+    "location_region": "new york",
+    "location_street_address": "23610 alexandria street road",
+    "middle_initial": "l",
+    "middle_name": "lee",
+    "mobile_phone": 13159558154,
+    "myloc": {
+      "lat": 43.97,
+      "lon": -75.6
+    },
+    "operation_id": "0cf87751fa52b526ad2cfc83c6851390746c307ed45130d5e1c9bda498200d55",
+    "personal_emails": ["lmajor494@yahoo.com"],
+    "phone_numbers": ["13159558154", "13154934660", "13154937663", "13154930552"],
+    "profiles": [
+      {
+        "id": "100001340273551",
+        "network": "facebook",
+        "url": "facebook.com/lori.major.35",
+        "username": "lori.major.35"
+      }
+    ],
+    "regions": ["new york, united states"],
+    "skills": [],
+    "street_addresses": [
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "23610 alexandria street road"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "512 cemetery street"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "510 cemetery street"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "9 lathrop street"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "23608 alexandria street road"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "85 north main street"
+      },
+      {
+        "address_line_2": "apartment 3",
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "8 south main street"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "43.97,-75.60",
+        "locality": "carthage",
+        "metro": "watertown, new york",
+        "name": "carthage, new york, united states",
+        "postal_code": "13619",
+        "region": "new york",
+        "street_address": "23610 alexandria street"
+      }
+    ],
+    "summary": "n/a",
+    "twitter_url": "n/a",
+    "twitter_username": "n/a",
+    "version_status": {
+      "contains": [],
+      "current_version": "18.0",
+      "previous_version": "17.0",
+      "status": "unchanged"
+    },
+    "work_email": "n/a"
+  },
+  "type": "free_pdl"
+}

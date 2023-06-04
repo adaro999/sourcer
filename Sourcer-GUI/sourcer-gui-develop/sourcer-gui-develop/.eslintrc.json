@@ -1,0 +1,7 @@
+{
+  "extends": ["next/core-web-vitals", "plugin:@typescript-eslint/recommended", "prettier"],
+  "plugins": ["@typescript-eslint"],
+  "rules": {
+    "@typescript-eslint/no-empty-function": ["error", { "allow": ["arrowFunctions"] }]
+  }
+}

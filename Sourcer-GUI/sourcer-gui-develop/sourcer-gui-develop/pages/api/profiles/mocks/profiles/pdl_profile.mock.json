@@ -1,0 +1,577 @@
+{
+  "_id": "T2CcE22BctIXDAkDMK9BXg_0000",
+  "_index": "peopledatalab_v5_q4_subset",
+  "_primary_term": 1,
+  "_seq_no": 131906,
+  "_source": {
+    "birth_date": "1965-09-16",
+    "birth_year": 1965,
+    "countries": ["united states"],
+    "education": [
+      {
+        "degrees": ["bachelors"],
+        "end_date": "1987",
+        "gpa": null,
+        "majors": ["commerce"],
+        "minors": [],
+        "school": {
+          "domain": null,
+          "facebook_url": null,
+          "id": "WlZUnQ2iwB83r9kAd6342g_0",
+          "linkedin_id": "204165",
+          "linkedin_url": "linkedin.com/school/prahladrai-dalmia-lions-college-of-commerce-and-ec",
+          "location": {
+            "continent": "asia",
+            "country": "india",
+            "locality": "bombay",
+            "name": "bombay, maharashtra, india",
+            "region": "maharashtra"
+          },
+          "name": "prahladrai dalmia lions college of commerce and economics sundar nagar s v road malad west mumbai 400 064",
+          "twitter_url": null,
+          "type": "post-secondary institution",
+          "website": null
+        },
+        "start_date": "1982",
+        "summary": null
+      },
+      {
+        "degrees": ["bachelors", "bachelor of arts"],
+        "end_date": "1985",
+        "gpa": null,
+        "majors": [],
+        "minors": [],
+        "school": {
+          "domain": null,
+          "facebook_url": null,
+          "id": null,
+          "linkedin_id": null,
+          "linkedin_url": null,
+          "location": null,
+          "name": "dalmia college of bombay",
+          "twitter_url": null,
+          "type": "post-secondary institution",
+          "website": null
+        },
+        "start_date": "",
+        "summary": null
+      }
+    ],
+    "emails": [
+      {
+        "address": "alkeshbarodia@hotmail.com",
+        "type": "personal"
+      },
+      {
+        "address": "alkeshb@hotmail.com",
+        "type": "personal"
+      }
+    ],
+    "enriched_emails": ["alkesh.barodia@catalent.com"],
+    "enriched_phone": [],
+    "experience": [
+      {
+        "company": {
+          "facebook_url": "facebook.com/catalentpharmasolutions",
+          "founded": 2007,
+          "id": "catalent-pharma-solutions",
+          "industry": "pharmaceuticals",
+          "linkedin_id": "162912",
+          "linkedin_url": "linkedin.com/company/catalent-pharma-solutions",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": "40.49,-74.48",
+            "locality": "somerset",
+            "metro": "new york, new york",
+            "name": "somerset, new jersey, united states",
+            "postal_code": "08873",
+            "region": "new jersey",
+            "street_address": "14 schoolhouse road"
+          },
+          "name": "catalent pharma solutions",
+          "size": "10001+",
+          "twitter_url": "twitter.com/catalentpharma",
+          "website": "catalent.com"
+        },
+        "end_date": "",
+        "is_primary": true,
+        "location_names": ["baltimore, maryland, united states"],
+        "start_date": "2020-04",
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "qa associate ii",
+          "role": null,
+          "sub_role": null
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": 1994,
+          "id": "aurobindo-pharma-u-s-a-",
+          "industry": "pharmaceuticals",
+          "linkedin_id": "461247",
+          "linkedin_url": "linkedin.com/company/aurobindo-pharma-u-s-a-",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": null,
+            "locality": null,
+            "metro": null,
+            "name": "new jersey, united states",
+            "postal_code": null,
+            "region": "new jersey",
+            "street_address": null
+          },
+          "name": "aurobindo pharma usa, inc.",
+          "size": "501-1000",
+          "twitter_url": null,
+          "website": "aurobindousa.com"
+        },
+        "end_date": "2020-04",
+        "is_primary": false,
+        "location_names": ["north brunswick, new jersey, united states"],
+        "start_date": "2017-09",
+        "summary": "* ✓ Managing floor activities, including floor & line clearance\n* ✓ Blending samples\n* ✓ Facilitating batch record reviews\n* ✓ Have exposure to all end-to-end activities related to pharma production and QA\n* ✓ Assist the Quality Manager with all quality operations\n* ✓ Ensure compliance to procedures and address non-compliance issues.\n* ✓ Daily activities include but not limited to final batch processing, label and packing, environmental monitoring and raining of specific procedures.",
+        "title": {
+          "levels": [],
+          "name": "qa associate",
+          "role": null,
+          "sub_role": null
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": 1985,
+          "id": "sigma-pharmaceuticals-llc",
+          "industry": "pharmaceuticals",
+          "linkedin_id": "15507555",
+          "linkedin_url": "linkedin.com/company/sigma-pharmaceuticals-llc",
+          "location": {
+            "address_line_2": "suite 1",
+            "continent": "north america",
+            "country": "united states",
+            "geo": "41.74,-91.59",
+            "locality": "north liberty",
+            "metro": "iowa city, iowa",
+            "name": "north liberty, iowa, united states",
+            "postal_code": "52317",
+            "region": "iowa",
+            "street_address": "955 236th street northeast"
+          },
+          "name": "sigma pharmaceuticals, llc",
+          "size": "1-10",
+          "twitter_url": null,
+          "website": "sigmapharmaceuticals.com"
+        },
+        "end_date": "2017-09",
+        "is_primary": false,
+        "location_names": ["bensalem, pennsylvania, united states"],
+        "start_date": "2013-11",
+        "summary": "* ✓ Experienced in organizing all in-process quality assurance activities.\n* ✓ Facilitate the review of batch processing from pharmacy to packaging\n* ✓ Managed in-process check from manufacturing to packaging\n* ✓ Facilitating batch record reviews\n* ✓ Ensuring that the quality standards are met as per the production goals.\n* ✓ Responsible for sampling raw material, approval and issuance of FDA approved labeling material.",
+        "title": {
+          "levels": [],
+          "name": "qa associate",
+          "role": null,
+          "sub_role": null
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": 2004,
+          "id": "kvk-tech-inc-",
+          "industry": "pharmaceuticals",
+          "linkedin_id": "2085131",
+          "linkedin_url": "linkedin.com/company/kvk-tech-inc-",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": "40.22,-74.93",
+            "locality": "newtown",
+            "metro": "philadelphia, pennsylvania",
+            "name": "newtown, pennsylvania, united states",
+            "postal_code": "18940",
+            "region": "pennsylvania",
+            "street_address": "110 terry drive"
+          },
+          "name": "kvk tech, inc.",
+          "size": "51-200",
+          "twitter_url": null,
+          "website": "kvktech.com"
+        },
+        "end_date": "2013-11",
+        "is_primary": false,
+        "location_names": ["newtown, pennsylvania, united states"],
+        "start_date": "2010-12",
+        "summary": "* ✓ Tracked and maintained company regulated SOP’s..\n* ✓ Investigated production line failures to ensure efficiency.\n* ✓ Facilitating batch record reviews\n* ✓ Organizing data with the SYSPRO system.\n* ✓ Ensured the SOPs, regarding change controls are fully documented and reviewed periodically within\n* compliance\n* ✓ Ensured the SOPs, regarding change controls are fully documented and reviewed periodically within compliance\n* ✓ Maintained updated files and change control documentation system\n* ✓ Inspection, testing, sampling and sorting of FDA products for a pharmaceutical manufacturer.",
+        "title": {
+          "levels": [],
+          "name": "qa associate",
+          "role": null,
+          "sub_role": null
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": null,
+          "id": "guardian-drug-company",
+          "industry": "pharmaceuticals",
+          "linkedin_id": "10940091",
+          "linkedin_url": "linkedin.com/company/guardian-drug-company",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": "40.37,-74.51",
+            "locality": "dayton",
+            "metro": "new york, new york",
+            "name": "dayton, new jersey, united states",
+            "postal_code": null,
+            "region": "new jersey",
+            "street_address": null
+          },
+          "name": "guardian drug company",
+          "size": "51-200",
+          "twitter_url": null,
+          "website": "guardiandrug.com"
+        },
+        "end_date": "2010-12",
+        "is_primary": false,
+        "location_names": ["dayton, new jersey, united states"],
+        "start_date": "2009-06",
+        "summary": "* ✓ Ensure Quality Assurance/Control standards in-product inspection and logistical operations.\n* ✓ Inspect tablets for hardness, thickness and friability.\n* ✓ Tested D.T test capsules.\n* ✓ Sampled raw materials and packaging components.\n* ✓ Examined packaging components and maintained reports of all results.",
+        "title": {
+          "levels": [],
+          "name": "qa associate",
+          "role": null,
+          "sub_role": null
+        }
+      }
+    ],
+    "first_name": "alkesh",
+    "flag": false,
+    "full_name": "alkesh barodia",
+    "id": "T2CcE22BctIXDAkDMK9BXg_0000",
+    "industry": "pharmaceuticals",
+    "inferred_salary": "45,000-55,000",
+    "inferred_years_experience": 13,
+    "job_company_facebook_url": "facebook.com/catalentpharmasolutions",
+    "job_company_founded": 2007,
+    "job_company_id": "catalent-pharma-solutions",
+    "job_company_industry": "pharmaceuticals",
+    "job_company_linkedin_id": 162912,
+    "job_company_linkedin_url": "linkedin.com/company/catalent-pharma-solutions",
+    "job_company_location_continent": "north america",
+    "job_company_location_country": "united states",
+    "job_company_location_geo": "40.49,-74.48",
+    "job_company_location_locality": "somerset",
+    "job_company_location_metro": "new york, new york",
+    "job_company_location_name": "somerset, new jersey, united states",
+    "job_company_location_postal_code": "08873",
+    "job_company_location_region": "new jersey",
+    "job_company_location_street_address": "14 schoolhouse road",
+    "job_company_name": "catalent pharma solutions",
+    "job_company_size": "10001+",
+    "job_company_twitter_url": "twitter.com/catalentpharma",
+    "job_company_website": "catalent.com",
+    "job_last_updated": "2022-09-07",
+    "job_start_date": "2020-04",
+    "job_title": "qa associate ii",
+    "last_initial": "b",
+    "last_name": "barodia",
+    "last_resume_updated": "2022-09-07 00:00:00",
+    "linkedin_connections": 160,
+    "linkedin_id": 119065435,
+    "linkedin_url": "linkedin.com/in/alkesh-barodia-737a5b33",
+    "linkedin_username": "alkesh-barodia-737a5b33",
+    "location_continent": "north america",
+    "location_country": "united states",
+    "location_geo": "40.06,-74.90",
+    "location_last_updated": "2021-07-01",
+    "location_locality": "edgewater park",
+    "location_metro": "philadelphia, pennsylvania",
+    "location_name": "edgewater park, new jersey, united states",
+    "location_names": [
+      "frisco, texas, united states",
+      "beverly, new jersey, united states",
+      "chattanooga, tennessee, united states",
+      "levittown, pennsylvania, united states",
+      "milford, connecticut, united states",
+      "hartford, connecticut, united states",
+      "lansdale, pennsylvania, united states",
+      "edgewater park, new jersey, united states",
+      "abingdon, maryland, united states",
+      "plainsboro, new jersey, united states",
+      "north brunswick, new jersey, united states",
+      "new haven, connecticut, united states",
+      "new york, new york, united states",
+      "west hartford, connecticut, united states"
+    ],
+    "location_postal_code": 8010,
+    "location_region": "new jersey",
+    "location_street_address": "103 benford lane",
+    "middle_initial": "m",
+    "myloc": {
+      "lat": 40.06,
+      "lon": -74.9
+    },
+    "operation_id": "9e4a9aa8249b5c9f1ad30a969fb54147ad6d747ad40ff58ccf40085678947020",
+    "personal_emails": ["alkeshbarodia@hotmail.com", "alkeshb@hotmail.com"],
+    "phone_numbers": ["+18607165545", "+16097997398", "+16097164904", "+16097991704", "+12675805405", "+12038785296", "+12038786332", "+18605231691"],
+    "processed_date": "2022-11-03 04:15:10",
+    "profiles": [
+      {
+        "id": "119065435",
+        "network": "linkedin",
+        "url": "linkedin.com/in/alkesh-barodia-737a5b33",
+        "username": "alkesh-barodia-737a5b33"
+      }
+    ],
+    "regions": [
+      "tennessee, united states",
+      "connecticut, united states",
+      "new jersey, united states",
+      "maryland, united states",
+      "pennsylvania, united states",
+      "texas, united states",
+      "new york, united states"
+    ],
+    "skills": ["quality assurance", "biotechnology"],
+    "street_addresses": [
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "40.06,-74.90",
+        "locality": "edgewater park",
+        "metro": "philadelphia, pennsylvania",
+        "name": "edgewater park, new jersey, united states",
+        "postal_code": "08010",
+        "region": "new jersey",
+        "street_address": "103 benford lane"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "39.46,-76.27",
+        "locality": "abingdon",
+        "metro": null,
+        "name": "abingdon, maryland, united states",
+        "postal_code": "21009",
+        "region": "maryland",
+        "street_address": "2919 lomond place"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "40.06,-74.91",
+        "locality": "beverly",
+        "metro": "philadelphia, pennsylvania",
+        "name": "beverly, new jersey, united states",
+        "postal_code": "08010",
+        "region": "new jersey",
+        "street_address": "103 benford lane"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": null,
+        "locality": "north brunswick",
+        "metro": null,
+        "name": "north brunswick, new jersey, united states",
+        "postal_code": "08902",
+        "region": "new jersey",
+        "street_address": "212 marc drive"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "40.33,-74.60",
+        "locality": "plainsboro",
+        "metro": null,
+        "name": "plainsboro, new jersey, united states",
+        "postal_code": "08536",
+        "region": "new jersey",
+        "street_address": "1017 aspen drive"
+      },
+      {
+        "address_line_2": "apartment d11",
+        "continent": "north america",
+        "country": "united states",
+        "geo": "40.15,-74.82",
+        "locality": "levittown",
+        "metro": "philadelphia, pennsylvania",
+        "name": "levittown, pennsylvania, united states",
+        "postal_code": "19054",
+        "region": "pennsylvania",
+        "street_address": "8590 new falls road"
+      },
+      {
+        "address_line_2": "apartment b203",
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.76,-72.68",
+        "locality": "hartford",
+        "metro": "hartford, connecticut",
+        "name": "hartford, connecticut, united states",
+        "postal_code": "06110",
+        "region": "connecticut",
+        "street_address": "160 newington road"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.76,-72.74",
+        "locality": "west hartford",
+        "metro": "hartford, connecticut",
+        "name": "west hartford, connecticut, united states",
+        "postal_code": "06110",
+        "region": "connecticut",
+        "street_address": "102 randal avenue"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "33.15,-96.82",
+        "locality": "frisco",
+        "metro": "dallas, texas",
+        "name": "frisco, texas, united states",
+        "postal_code": "75035",
+        "region": "texas",
+        "street_address": "11473 eaglebend lane"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.30,-72.92",
+        "locality": "new haven",
+        "metro": "new haven, connecticut",
+        "name": "new haven, connecticut, united states",
+        "postal_code": "06510",
+        "region": "connecticut",
+        "street_address": "68 church street"
+      },
+      {
+        "address_line_2": "apartment b203",
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.76,-72.74",
+        "locality": "west hartford",
+        "metro": "hartford, connecticut",
+        "name": "west hartford, connecticut, united states",
+        "postal_code": "06110",
+        "region": "connecticut",
+        "street_address": "160 newington road"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "35.04,-85.30",
+        "locality": "chattanooga",
+        "metro": "chattanooga, tennessee",
+        "name": "chattanooga, tennessee, united states",
+        "postal_code": "37412",
+        "region": "tennessee",
+        "street_address": "3625 ringgold road"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.76,-72.74",
+        "locality": "west hartford",
+        "metro": "hartford, connecticut",
+        "name": "west hartford, connecticut, united states",
+        "postal_code": "06110",
+        "region": "connecticut",
+        "street_address": "48 grissom drive"
+      },
+      {
+        "address_line_2": "apartment c14",
+        "continent": "north america",
+        "country": "united states",
+        "geo": "40.24,-75.28",
+        "locality": "lansdale",
+        "metro": "philadelphia, pennsylvania",
+        "name": "lansdale, pennsylvania, united states",
+        "postal_code": "19446",
+        "region": "pennsylvania",
+        "street_address": "1141 snyder road"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.22,-73.05",
+        "locality": "milford",
+        "metro": "new haven, connecticut",
+        "name": "milford, connecticut, united states",
+        "postal_code": "06460",
+        "region": "connecticut",
+        "street_address": "10 carriage drive"
+      },
+      {
+        "address_line_2": null,
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.22,-73.05",
+        "locality": "milford",
+        "metro": "new haven, connecticut",
+        "name": "milford, connecticut, united states",
+        "postal_code": "06460",
+        "region": "connecticut",
+        "street_address": "8 robert treat drive"
+      },
+      {
+        "address_line_2": "apartment c",
+        "continent": "north america",
+        "country": "united states",
+        "geo": "41.22,-73.05",
+        "locality": "milford",
+        "metro": "new haven, connecticut",
+        "name": "milford, connecticut, united states",
+        "postal_code": "06460",
+        "region": "connecticut",
+        "street_address": "2 robert treat drive"
+      }
+    ],
+    "summary": "Self-starter, detail-oriented Quality Assurance Associate with 10 years of experience in the Pharma industry. Capable of training contract employees and managing batch record reviews. In addition, ability to correctly complete inspection and sampling for FDA products for manufacturing. A detail-oriented and customer-focused professional who pairs strong interpersonal skills and team work.",
+    "version_status": {
+      "contains": [],
+      "current_version": "20.0",
+      "previous_version": "19.0",
+      "status": "updated"
+    }
+  },
+  "_type": "_doc",
+  "_version": 1,
+  "connection": {
+    "company_id": "32120",
+    "connection_time": "2023-02-06 14:33:30",
+    "isBlocked": "",
+    "isConnected": "",
+    "isPending": "True",
+    "jobseeker_id": "3336170",
+    "profile_id": "pdl_T2CcE22BctIXDAkDMK9BXg_0000",
+    "recruiter_id": "1119817",
+    "status": "pending"
+  },
+  "found": true,
+  "isConnected": "False"
+}

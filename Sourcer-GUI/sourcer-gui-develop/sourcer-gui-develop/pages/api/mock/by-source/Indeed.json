@@ -1,0 +1,38 @@
+{
+  "education": [
+    {
+      "degrees": ["ASN"],
+      "end_date": "",
+      "school": {
+        "location": "",
+        "name": null
+      },
+      "start_date": ""
+    }
+  ],
+  "id": "ind_622bb665a770ebdb",
+  "job": [
+    {
+      "title": {
+        "levels": [],
+        "name": "Registered Nurse"
+      }
+    }
+  ],
+  "labels": {
+    "candidate_id": "",
+    "contact_score": "",
+    "date_score": "",
+    "experience_years": "",
+    "final_score": "",
+    "last_updated": "2022-08-04T18:25:09.758Z",
+    "salary": "",
+    "tdfidf": "",
+    "unlock_status": ""
+  },
+  "location": "South Bend, US",
+  "name": {
+    "first_name": "confidential"
+  },
+  "skills": ["RN", "Med Surg", "Hospital Experience", "Staff Nurse", "Medical Surgical", "Communication skills", "Medication Administration", "Vital Signs", "Cerner", "Epic"]
+}

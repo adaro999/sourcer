@@ -1,0 +1,86 @@
+{
+  "current_job_title": "Nurse",
+  "education": [
+    {
+      "degrees": ["Masters"]
+    }
+  ],
+  "id": "rli_13861376",
+  "job": [
+    {
+      "title": {
+        "levels": ["nurse", "Volunteer Nurse Program", "Registered Charge Nurse"],
+        "name": "Nurse"
+      }
+    }
+  ],
+  "labels": {
+    "experience_years": "10+",
+    "last_updated": "2022-05-12T14:45:17Z",
+    "salary": "100000-125000",
+    "unlock_status": "unlocked"
+  },
+  "location": "Saint Louis, MO",
+  "name": {
+    "first_name": "Bonnie",
+    "last_name": "Brennen"
+  },
+  "score": {
+    "active_score": 0,
+    "contact_score": 0.2,
+    "date_score": 0.00000907998595249697,
+    "final_score": 1.5390090799859526,
+    "job_title_score": 1,
+    "tfidf_score": 0.339
+  },
+  "skills": ["Patient Care", "Hepatitis C", "Adult Primary Care", "Asthma", "Nursing", "Diabetes", "Anaesthesia", "Influenza", "Primary Care", "Medication"],
+  "source": {
+    "candidate_hash": "f7db471f53d1ace97c6acd852ff0258d99bc57d1f74dbf348ff1b96ac678ae1a_13861376_0_ba787e8c1c4dd5c942a4a5ee43c2d8d2698ef6cd3b4ad188590150cab2564a47_2db1bf247065831352d41c1216ac466bf7d0d9f60785b619548c11ea4c5a47cb",
+    "candidate_status": "new",
+    "created_on": "2022-05-12T14:45:17Z",
+    "desired_job_title": "Nurse",
+    "driving_license": "not_set",
+    "education_level": "Masters",
+    "first_name": "Bonnie",
+    "hometown": "Saint Louis, MO",
+    "id": 13861376,
+    "latest_job_title": "Nurse",
+    "max_salary": 125000,
+    "min_salary": 100000,
+    "previous_job_titles": [
+      "nurse",
+      "Volunteer Nurse Program",
+      "Registered Charge Nurse",
+      "Substitute Registered Nurse",
+      "Adult Primary Care Nurse Practitioner",
+      "Registered Nurse"
+    ],
+    "relocate": "1",
+    "resume_content": "\n\n{{DOCUMENT_DATESTAMP}} 2022-05-09 18:33:23 {{END_DOCUMENT_DATESTAMP}}\n\n                                           ##############, MSN\n                                             ##################\n                                               #########, ##\n                                                  #####\n                                          #####################\n\nEDUCATION:\nMarquette University, Milwaukee, WI                                                     1971 - 75\nBachelor of Science in Nursing\n\nBoston University, Boston, MA                                                           1980 - 82\nMaster of Science in Nursing (MSN)\n\nCertification and Licensure ,\nAmerican Nurses Credentialing Center (ANCC), Adult Nurse Practitioner Certification ###########\n\nLicensed Registered Nurse, ## Multi-state license ###########\n\nPROFESSIONAL EXPERIENCE:\nRegistered Nurse\nUnited States Public Health Service Hospital, Brighton, MA                              1978 - 81\n     * Responsible for medication, treatment, personal care, and discharge planning of in-patients on medical, surgical, and psychiatric units\n     * Worked in variety of leadership positions as charge nurse and in-service education nurse\n     * Provide comprehensive nursing care in variety of settings including caring for refugees in Cambodia and inmates/psychiatric patients\n\nAdult Primary Care Nurse Practitioner                                                    1982 - 86\n######### Hospital, #########, MA\n    * Deliver high level of care to patients in the Employee Health Service, Occupation Health Program Latino Clinic, and primary care patients with wide range of acute and chronic problems \n    * Worked as part of dynamic interprofessional team including physician, social worker, and administrators\n\nSubstitute Registered Nurse                                                              2005 - 09\n##### School District, #####, ##\n    * Worked at least 2 days per week as a substitute school nurse, rotating at 6 schools total\n    * Organized, updated, and maintained student health charts for more than 4,000 students enrolled in ##### School District\n    * Evaluated and treated students presenting with asthma, upper respiratory infections, diabetes, and injuries \n    * Conducted school-wide vision and hearing checks\n    * Administered influenza vaccinations to approximately 1,200 students and staff\n\nRegistered Charge Nurse                                                                  2009 - 12\nSisters of Mercy Health Systems, #########, ##\n    * Worked three 12-hour shifts per week to provide high-quality, comprehensive age-appropriate nursing care to 45 residents at nursing home \n    * Supervise the care provided by nurse aids and non-professional nursing personnel\n    * Delegate tasks nurse aides\n    * Develop and implement care plans for all 45 residents\n    * Communicate with off-site physician regarding treatment decisions\n\nNurse Practitioner                                                           June 2015 - January 2018\n\nCorizon Correctional Health, #############, ##\n    * Worked full-time as nurse practitioner to provide comprehensive health care, including conducting routine physical exams as required by law, to over 2,000 inmates\n    * Deliver care to patients in the infirmary, including post-operative patients and those with terminal disease\n    * Acted as lead health care provider for the Hepatitis C Clinic, assessing disease progression, conducting diagnostic work-up per consensus guidelines, and facilitating treatment\n    * Evaluate acute medical complaints of the residents, and determine whether higher level of care was required\n    * Consult with outside specialists at various hospitals regarding diagnosis and management of variety of conditions\n\nCOMMUNITY SERVICE/VOLUNTEER EXPERIENCES:\nVolunteer Nurse Program at Mercy Hospital                                            2007 - 10\nMercy Hospital, #########, ##\n    * Volunteer in Otolaryngology Post-Anesthesia Care Unit to assess patients after anesthesia\n    * Volunteer in GI lab to assess patients after procedures including sigmoidoscopies and colonoscopies\n    * Volunteer in Emergency Department\n\nHonors/Awards\nSigma Theta Tau international honor society of nurses                                  Inducted 1982\n\n",
+    "resume_keywords": ", American Nurses Credentialing Center (ANCC), Adult … (ANCC), Adult Nurse Practitioner Certification ########### … Registered Nurse, ## Multi-state license ###########  … ",
+    "resume_summary": null,
+    "skills": [
+      "Patient Care",
+      "Hepatitis C",
+      "Adult Primary Care",
+      "Asthma",
+      "Nursing",
+      "Diabetes",
+      "Anaesthesia",
+      "Influenza",
+      "Primary Care",
+      "Medication",
+      "Colonoscopy",
+      "Discharge Planning",
+      "Immunization",
+      "Patient Care Plans"
+    ],
+    "source_id": 974841,
+    "unlock_status": "unlocked",
+    "unlock_timestamp": "2022-05-25 20:08:34",
+    "unlock_url": null,
+    "updated_on": "2022-05-12T14:45:17Z",
+    "work_experience": "10+",
+    "zip_code": "63132"
+  }
+}

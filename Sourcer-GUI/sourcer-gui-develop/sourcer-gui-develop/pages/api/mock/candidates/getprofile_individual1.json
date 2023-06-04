@@ -1,0 +1,172 @@
+{
+  "raw_response": {
+    "bulkResponses": [
+      {
+        "bulkItemId": "1",
+        "response": {
+          "resume": {
+            "assessments": [],
+            "awards": [],
+            "certifications": [],
+            "education": [
+              {
+                "endDate": "2013-12",
+                "field": "Accounting and Finance",
+                "startDate": "2012-01",
+                "university": "University of Phoenix"
+              },
+              {
+                "degree": "AA",
+                "endDate": "2011-12",
+                "field": "Graphic Design",
+                "startDate": "2008-01",
+                "university": "Laney College"
+              },
+              {
+                "degree": "High School Diploma",
+                "endDate": "2007-12",
+                "startDate": "2003-01",
+                "university": "San Leandro High School"
+              }
+            ],
+            "groups": [],
+            "isRedacted": true,
+            "jobSeekerId": "5d6a09536792462a",
+            "lastUpdatedTime": "2021-09-10T17:35:17.25Z",
+            "licenses": [],
+            "location": { "city": "Phoenix", "country": "US" },
+            "militaryService": [],
+            "patents": [],
+            "publications": [],
+            "skills": [
+              { "monthsOfExperience": 0, "skill": "Adobe Illustrator" },
+              { "monthsOfExperience": 0, "skill": "Adobe Photoshop" },
+              { "monthsOfExperience": 0, "skill": "Microsoft Powerpoint" },
+              { "monthsOfExperience": 0, "skill": "Microsoft Word" },
+              { "monthsOfExperience": 0, "skill": "iOS" },
+              { "monthsOfExperience": 0, "skill": "Mac OS" },
+              { "monthsOfExperience": 0, "skill": "Microsoft Excel" },
+              { "monthsOfExperience": 0, "skill": "Adobe InDesign" }
+            ],
+            "summary": "I am an experienced Inventory Specialist and Program Manager, having worked at major technology companies such as Apple and Amazon. I am married with three young kids and also an entrepreneur. I recently relocated to Phoenix, Arizona from the\nBay Area, CA. I am seeking a career in a progressive company that will allow me to utilize the skills I have developed at previous opportunities as well as grow with the company.\n· 10 years of experience in Device Management\n· Small business owner, Unknown Succulents\n· Management and leadership experience\n· Mentor and support system for professional team",
+            "workExperience": [
+              {
+                "company": "Amazon Lab126",
+                "description": "Worldwide prototype device management; Manage and enforce Amazon’s Acceptable Use\nPolicy; Evaluate, process and troubleshoot internal customer trouble ticket system along with analyze data to improve experience; Work with cross functional teams to create or improve processes; Create written step-by-step literature for global processes; Inventory and quality management; Process and oversee devices for scrapping and disposal; Facilitate worldwide prototype device recalls; Travel to other offices nationwide to teach and assist device management along with prototype device disposal.",
+                "endDate": "2021-07",
+                "location": { "city": "Sunnyvale", "country": "US" },
+                "startDate": "2015-09",
+                "title": "Program Manager"
+              },
+              {
+                "company": "Apple, Inc.",
+                "description": "Lead inventory team of up to eight employees; Reconciliation of inventory along with detailed deep dive reports; Communication with leadership of discrepancies and losses; Create schedule of quick turnover cycle counts to determine opportunities for improvement; Oversee inbound and outbound freight, ground and express services; Ensure integrity of product placement on sales floor; Provide training to new hires especially inventory team; Facilitate hiring events; Mentor new hires for three years.",
+                "endDate": "2015-08",
+                "location": { "city": "Pleasanton", "country": "US" },
+                "startDate": "2011-01",
+                "title": "Inventory Specialist"
+              },
+              {
+                "company": "Apple, Inc.",
+                "description": "Manage receiving shipments; Organize and replenish stock room and floor as necessary; Inventory management performing cycle counts; Manage the inventory for service replacement parts and supplies used for in-house repairs.\nEntrepreneurship",
+                "endDate": "2011-12",
+                "location": { "city": "Pleasanton", "country": "US" },
+                "startDate": "2007-10",
+                "title": "Back of House Specialist"
+              },
+              {
+                "company": "Unknown Succulents, LLC",
+                "description": "Manage a small business selling succulents and arrangements while providing education and entertainment; Inventory management; Manage inbound and outbound shipments; Manage product pricing to ensure competition; Provide excellent customer service and ensure customer engagement; Content creator of all branding including but not limited to succulent related photos, videos, memes, rap songs",
+                "endDate": "current",
+                "location": { "city": "San Leandro", "country": "US" },
+                "startDate": "2017-01",
+                "title": "Founder"
+              }
+            ]
+          },
+          "viewResumeUrls": {
+            "onIndeed": "https://resumes.indeed.com/resume/5d6a09536792462a?referralToken=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI1ZDZhMDk1MzY3OTI0NjJhIiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.FCd9n2jW6RKC9gUmbqDhJHCDiovE5Gpw2EiLy2I78aH0Inu0El318TBHL7VNW--gM-6ze9au4A-gvk2maPM9Zw&from=sp.api.getresumes&subFrom=81f1efdd5a9ced5302bd506ede48210f6e620f09f1b83b374c005bca0af28536&fromTk=1g8r3e0d9ge8h800",
+            "renderedAsHtml": "https://resumes.indeed.com/resume/renderedHtml?token=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI1ZDZhMDk1MzY3OTI0NjJhIiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.FCd9n2jW6RKC9gUmbqDhJHCDiovE5Gpw2EiLy2I78aH0Inu0El318TBHL7VNW--gM-6ze9au4A-gvk2maPM9Zw",
+            "renderedAsPdf": "https://resumes.indeed.com/resume/pdfByToken?token=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI1ZDZhMDk1MzY3OTI0NjJhIiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.FCd9n2jW6RKC9gUmbqDhJHCDiovE5Gpw2EiLy2I78aH0Inu0El318TBHL7VNW--gM-6ze9au4A-gvk2maPM9Zw"
+          }
+        }
+      },
+      {
+        "bulkItemId": "2",
+        "response": {
+          "resume": {
+            "assessments": [],
+            "awards": [],
+            "certifications": [],
+            "education": [
+              {
+                "degree": "Bachelor of Sciences Mechanical Engineering",
+                "field": "Sciences Mechanical Engineering",
+                "location": { "city": "Milwaukee", "country": "US" },
+                "university": "University of Wisconsin"
+              }
+            ],
+            "groups": [],
+            "isRedacted": true,
+            "jobSeekerId": "48f45ff009c0caf5",
+            "lastUpdatedTime": "2022-05-03T04:35:46.014Z",
+            "licenses": [],
+            "location": { "city": "Seattle", "country": "US" },
+            "militaryService": [],
+            "patents": [],
+            "publications": [],
+            "skills": [],
+            "workExperience": [
+              {
+                "company": "Advanced Integration Technology –Project Engineer",
+                "description": "o Field liaison between technical engineers between on-site customer, internal senior project management team, and internal technical design team.\no Built teams consisting of up to 8 engineers responsible for design of large-scale systems.\no Responsible for design, manufacture, shipping, field install and support of initial tool use for projects up to $50M.",
+                "endDate": "current",
+                "location": { "city": "Bothell", "country": "US" },
+                "startDate": "2019-11",
+                "title": "Aerospace Tooling Engineer"
+              },
+              {
+                "company": "Advanced Integration Technology –Mechanical Engineer – Lead\nAerospace Tooling Engineer",
+                "description": "o Lead engineer on multiple tools with strict timelines based upon customer specification.\no Incorporated additional team members to plan completion of projects within timeline while maintaining protocols to adhere to customer and DOD Clearance guidelines.\no Responsible for design, manufacture, and capture changes necessary to meet ISO requirements.",
+                "endDate": "2019-11",
+                "location": { "city": "Bothell", "country": "US" },
+                "startDate": "2017-07"
+              },
+              {
+                "company": "Advanced Integration Technology –Mechanical Engineer",
+                "description": "o Designed tools and equipment for aircraft from cradle to grave based upon customer specifications, utilizing various programs including Catia V5 and ANSYS\no Developed internal software for product designing software standardization.\no Interfaced between internal Project Manager and design team.",
+                "endDate": "2017-07",
+                "location": { "city": "Bothell", "country": "US" },
+                "startDate": "2013-08",
+                "title": "Aerospace Tooling Engineer"
+              },
+              {
+                "company": "ACS Group",
+                "description": "o Initiated Redesign of Feedroll machine for new product design.\no Developed expanded model of most popular granulator machine series.\no Oversaw manufacturing of initial units of feedroll and granulator machines.",
+                "endDate": "2013-07",
+                "location": { "city": "New Berlin", "country": "US" },
+                "startDate": "2011-08",
+                "title": "R&D Mechanical Engineer – Size Reduction"
+              },
+              {
+                "company": "ACS Group",
+                "description": "o Designed parts within R & D department in solidworks for new product lines.\no Communicated with customers and sales to develop new product specifications.\no Developed testing protocol and procedures for standardized in-house testing.",
+                "endDate": "2011-08",
+                "location": { "city": "New Berlin", "country": "US" },
+                "startDate": "2010-11",
+                "title": "Application Engineer – Size Reduction"
+              }
+            ]
+          },
+          "viewResumeUrls": {
+            "onIndeed": "https://resumes.indeed.com/resume/48f45ff009c0caf5?referralToken=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI0OGY0NWZmMDA5YzBjYWY1IiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.mt7R8nmQsRaHXk67mGFYObpV1UGgDOEuc2FTCFvIHmj4yZqPlCkmwEcsIF-PrigNbBoiAMmXpPOQtAnUSWuP6g&from=sp.api.getresumes&subFrom=81f1efdd5a9ced5302bd506ede48210f6e620f09f1b83b374c005bca0af28536&fromTk=1g8r3e0dbge8h800",
+            "renderedAsHtml": "https://resumes.indeed.com/resume/renderedHtml?token=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI0OGY0NWZmMDA5YzBjYWY1IiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.mt7R8nmQsRaHXk67mGFYObpV1UGgDOEuc2FTCFvIHmj4yZqPlCkmwEcsIF-PrigNbBoiAMmXpPOQtAnUSWuP6g",
+            "renderedAsPdf": "https://resumes.indeed.com/resume/pdfByToken?token=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI0OGY0NWZmMDA5YzBjYWY1IiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.mt7R8nmQsRaHXk67mGFYObpV1UGgDOEuc2FTCFvIHmj4yZqPlCkmwEcsIF-PrigNbBoiAMmXpPOQtAnUSWuP6g"
+          }
+        }
+      }
+    ]
+  },
+  "resume": "https://resumes.indeed.com/resume/renderedHtml?token=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI0OGY0NWZmMDA5YzBjYWY1IiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.mt7R8nmQsRaHXk67mGFYObpV1UGgDOEuc2FTCFvIHmj4yZqPlCkmwEcsIF-PrigNbBoiAMmXpPOQtAnUSWuP6g",
+  "urlIndeed": "https://resumes.indeed.com/resume/48f45ff009c0caf5?referralToken=eyJraWQiOiIxIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYifQ.eyJlaWQiOiJlZTQ2MzE2NDEzMjBkZjIzMjRlMmY2YjA5MzA0NGZjOSIsInN1YiI6InJlc3VtZVZpZXciLCJzcmMiOiJzcC5hcGkuZ2V0cmVzdW1lcyIsImpzaWQiOiI0OGY0NWZmMDA5YzBjYWY1IiwiY25hbWUiOiJKb2JUYXJnZXQiLCJyaWQiOiI3Y2IxYzY3MDNmMzY0YTBkIiwiZXhwIjoxNjU4ODUzMzUwLCJpYXQiOjE2NTg3NjY5NTAsImNpZCI6IjgxZjFlZmRkNWE5Y2VkNTMwMmJkNTA2ZWRlNDgyMTBmNmU2MjBmMDlmMWI4M2IzNzRjMDA1YmNhMGFmMjg1MzYifQ.mt7R8nmQsRaHXk67mGFYObpV1UGgDOEuc2FTCFvIHmj4yZqPlCkmwEcsIF-PrigNbBoiAMmXpPOQtAnUSWuP6g&from=sp.api.getresumes&subFrom=81f1efdd5a9ced5302bd506ede48210f6e620f09f1b83b374c005bca0af28536&fromTk=1g8r3e0dbge8h800"
+}

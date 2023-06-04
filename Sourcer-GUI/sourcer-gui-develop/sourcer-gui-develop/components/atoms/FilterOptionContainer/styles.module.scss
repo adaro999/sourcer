@@ -1,0 +1,13 @@
+.container {
+  z-index: 10;
+}
+
+.list {
+  &:last-of-type {
+    margin-bottom: 0 !important;
+  }
+
+  & label {
+    margin-left: 25px !important;
+  }
+}

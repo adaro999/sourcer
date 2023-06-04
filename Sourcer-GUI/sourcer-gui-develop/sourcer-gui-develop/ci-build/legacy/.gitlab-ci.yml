@@ -1,0 +1,132 @@
+stages:
+  - build
+  - test
+  - deploy
+  - staging
+  - production
+
+variables:
+  APP_NAME: sourcingui
+  DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ''
+
+# 🛠 BUILD
+.build:
+  stage: build
+  image: jobtarget/docker-ci-tools
+  services:
+    - name: docker:19.03.8-dind
+  script:
+    - chmod +x ./ci-build/build.sh
+    - './ci-build/build.sh'
+
+# 🧪 TEST
+Test:
+  image: node:16-alpine
+  stage: test
+  extends: .qa-tags
+  coverage: /All files[^|]*\|[^|]*\s+([\d\.]+)/
+  script:
+    # Copy in the npm config from CI variables to allow install of private JT libraries
+    - mv $NPMRC_CONFIG ./.npmrc
+    # Install dependencies
+    - yarn
+    # Run the tests
+    - yarn test
+  cache:
+    paths:
+      - node_modules/
+  artifacts:
+    when: always
+    expire_in: 1 week
+    paths:
+      - node_modules/
+    reports:
+      junit:
+        - junit.xml
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage/cobertura-coverage.xml
+
+# 🚀 DEPLOY
+.deploy:
+  stage: deploy
+  image: jobtarget/docker-ci-tools
+  services:
+    - name: docker:19.03.8-dind
+  script:
+    - chmod +x ./ci-build/deploy.sh
+    - './ci-build/deploy.sh'
+
+.qa-tags:
+  tags:
+    - qa-v1-docker
+
+.uat-tags:
+  tags:
+    - uat-v1-docker
+
+.prod-tags:
+  tags:
+    - docker
+
+Build:
+  extends:
+    - .build
+    - .qa-tags
+  environment:
+    name: qa
+
+Deploy - QA:
+  stage: deploy
+  extends:
+    - .deploy
+    - .qa-tags
+  environment:
+    name: qa
+  needs: ['Build']
+  variables:
+    ENV_NAME: qa
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+      when: never
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      when: always
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+      when: manual
+
+Deploy - UAT:
+  stage: staging
+  extends:
+    - .deploy
+    - .uat-tags
+  environment:
+    name: uat
+  variables:
+    ENV_NAME: uat
+  needs: ['Build']
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      when: manual
+    - if: '$CI_COMMIT_BRANCH == "staging"'
+      when: manual
+    - if: '$CI_COMMIT_BRANCH == "hotfix"'
+      when: manual
+    - when: never
+
+Deploy - PROD:
+  stage: production
+  extends:
+    - .deploy
+    - .prod-tags
+  environment:
+    name: prod
+  variables:
+    ENV_NAME: prod
+  needs: ['Build']
+  rules:
+    - if: '$CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH'
+      when: manual
+    - if: '$CI_COMMIT_BRANCH == "hotfix"'
+      when: manual
+    - when: never

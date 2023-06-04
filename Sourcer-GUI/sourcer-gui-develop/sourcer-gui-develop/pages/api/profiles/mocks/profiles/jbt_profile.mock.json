@@ -1,0 +1,123 @@
+{
+  "_id": "jbt_240664",
+  "_index": "jobtarget_v4",
+  "_primary_term": 4,
+  "_seq_no": 4542,
+  "_source": {
+    "appName": "HSRS",
+    "creationdate": "2021-04-06 14:54:28.350652",
+    "job_seeker_id": "240664",
+    "myloc": {
+      "lat": 40.11691,
+      "lon": -75.01428
+    },
+    "response": {
+      "profile": {
+        "educations": [
+          {
+            "degrees": ["Undergraduate"],
+            "endDate": "",
+            "end_date_score": 0.00000907998595249697,
+            "gpa": [""],
+            "majors": [""],
+            "minors": [""],
+            "school": {
+              "id": "",
+              "location": "",
+              "name": "Temple University",
+              "profiles": [""],
+              "type": "",
+              "website": ""
+            },
+            "startDate": "",
+            "summaries": [""]
+          }
+        ],
+        "email": "techie.mayhem@gmail.com",
+        "emails": [
+          {
+            "email": "techie.mayhem@gmail.com",
+            "type": ""
+          }
+        ],
+        "enriched_emails": ["patrick893@gmail.com", "patrick893@aol.com"],
+        "enriched_phone": ["2159702353", "2154932173", "2154933817", "2154933804"],
+        "firstName": "Patrick",
+        "image": {
+          "date": "",
+          "link": ""
+        },
+        "jobSeekerId": "240664",
+        "jobs": null,
+        "lastName": "W.",
+        "location": {
+          "address1": "",
+          "address2": "",
+          "city": "Philadelphia",
+          "country": "United States",
+          "latitude": "40.11691",
+          "longitude": "-75.01428",
+          "state": "Pennsylvania",
+          "zipcode": "19019"
+        },
+        "overview": "",
+        "phone": "2159202353",
+        "profileId": "306264",
+        "resumes": [
+          {
+            "appId": "306264",
+            "channel": "",
+            "date": "2021-02-21T16:24:43-04:00",
+            "format": ".docx",
+            "jobId": "27325715",
+            "link": "https://jobseeker-app-uploads.s3.amazonaws.com/cv/27325715/24153fb1-36c4-4066-915e-a81ba2e07f5a",
+            "resumeId": "24153fb1-36c4-4066-915e-a81ba2e07f5a",
+            "resumeXml": "https://daxtra-parsed-resume.s3.amazonaws.com/306264/24153fb1-36c4-4066-915e-a81ba2e07f5a",
+            "source": ""
+          }
+        ],
+        "skills": [
+          {
+            "name": "team management"
+          },
+          {
+            "name": "project planning"
+          },
+          {
+            "name": "team building"
+          },
+          {
+            "name": "Android"
+          },
+          {
+            "name": "IT Management"
+          },
+          {
+            "name": "PC Hardware"
+          },
+          {
+            "name": "Software Installation"
+          }
+        ],
+        "title": "IT Manager"
+      }
+    },
+    "resumeDate": "2021-02-21 20:24:43"
+  },
+  "_type": "_doc",
+  "_version": 2,
+  "connection": {
+    "action": "connect",
+    "connection_time": "2023-02-06 19:13:01",
+    "isBlocked": "False",
+    "isConnected": "True",
+    "isPending": "False",
+    "jobseeker_id": "240664",
+    "profile_id": "jbt_240664",
+    "recruiter_id": "1119817",
+    "source": "email",
+    "status": "accepted"
+  },
+  "found": true,
+  "isConnected": "True"
+}

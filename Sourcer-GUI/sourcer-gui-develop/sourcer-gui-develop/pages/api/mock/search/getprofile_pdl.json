@@ -1,0 +1,273 @@
+{
+  "_id": "Iq1a2cZf-DBvYt5x1I9Tcw_0000",
+  "_index": "peopledata_qa_q2_2022",
+  "_primary_term": 1,
+  "_seq_no": 1088749,
+  "_source": {
+    "birth_date": "n/a",
+    "birth_year": "n/a",
+    "certifications": [
+      {
+        "end_date": null,
+        "name": "nurse",
+        "organization": "nursing personnel homecare",
+        "start_date": null
+      }
+    ],
+    "countries": ["united states"],
+    "education": [
+      {
+        "degrees": ["associates", "associate of arts"],
+        "end_date": "2004",
+        "gpa": null,
+        "majors": [],
+        "minors": [],
+        "school": {
+          "domain": "mdc.edu",
+          "facebook_url": "facebook.com/mdcollege",
+          "id": "0UjcUM8ZMuofbX0I4YsGQw_0",
+          "linkedin_id": "20243",
+          "linkedin_url": "linkedin.com/school/miami-dade-college",
+          "location": {
+            "continent": "north america",
+            "country": "united states",
+            "locality": "miami",
+            "name": "miami, florida, united states",
+            "region": "florida"
+          },
+          "name": "miami dade college",
+          "twitter_url": "twitter.com/mdcollege",
+          "type": "post-secondary institution",
+          "website": "mdc.edu"
+        },
+        "start_date": "2000",
+        "summary": "Computer Science\n Activities and Societies: Student life and access department"
+      }
+    ],
+    "experience": [
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": null,
+          "id": null,
+          "industry": null,
+          "linkedin_id": null,
+          "linkedin_url": null,
+          "location": null,
+          "name": "home health care plus",
+          "size": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "end_date": "2016-11",
+        "is_primary": false,
+        "location_names": ["miami, florida, united states"],
+        "start_date": "2015-03",
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": 1885,
+          "id": "miami-dade-county-public-schools",
+          "industry": "education management",
+          "linkedin_id": "9626",
+          "linkedin_url": "linkedin.com/company/miami-dade-county-public-schools",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": "25.77,-80.19",
+            "locality": "miami",
+            "metro": "miami, florida",
+            "name": "miami, florida, united states",
+            "postal_code": "33132",
+            "region": "florida",
+            "street_address": "1450 northeast 2nd avenue"
+          },
+          "name": "miami-dade county public schools",
+          "size": "10001+",
+          "twitter_url": null,
+          "website": "dadeschools.net"
+        },
+        "end_date": null,
+        "is_primary": false,
+        "location_names": ["miami, florida, united states"],
+        "start_date": null,
+        "summary": "Miami-Dade County Public Schools (M-DCPS) is a public school district serving Miami-Dade County, Florida. Founded in 1885, it is the largest school district in Florida and the fourth largest in the United States.Miami-Dade County Public Schools has a current enrollment of over 350,000 students and a total of 54,861 employees. The District is comprised of 207 elementary schools, 65 middle schools, 42 high schools, and 9 charter schools",
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      },
+      {
+        "company": {
+          "facebook_url": null,
+          "founded": null,
+          "id": null,
+          "industry": null,
+          "linkedin_id": null,
+          "linkedin_url": null,
+          "location": null,
+          "name": "hhcp and florida public scools",
+          "size": null,
+          "twitter_url": null,
+          "website": null
+        },
+        "end_date": null,
+        "is_primary": false,
+        "location_names": [],
+        "start_date": "2014",
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      },
+      {
+        "company": {
+          "facebook_url": "facebook.com/catholichospice.org",
+          "founded": 1988,
+          "id": "catholic-hospice",
+          "industry": "hospital & health care",
+          "linkedin_id": "383315",
+          "linkedin_url": "linkedin.com/company/catholic-hospice",
+          "location": {
+            "address_line_2": null,
+            "continent": "north america",
+            "country": "united states",
+            "geo": "25.91,-80.32",
+            "locality": "miami lakes",
+            "metro": "miami, florida",
+            "name": "miami lakes, florida, united states",
+            "postal_code": "33014",
+            "region": "florida",
+            "street_address": "14875 northwest 77th avenue"
+          },
+          "name": "catholic hospice",
+          "size": "201-500",
+          "twitter_url": null,
+          "website": "catholichospice.org"
+        },
+        "end_date": null,
+        "is_primary": true,
+        "location_names": ["miami, florida, united states"],
+        "start_date": "2021-07",
+        "summary": null,
+        "title": {
+          "levels": [],
+          "name": "nurse",
+          "role": "health",
+          "sub_role": "nursing"
+        }
+      }
+    ],
+    "first_name": "gloria",
+    "flag": false,
+    "full_name": "gloria del pino",
+    "gender": "female",
+    "id": "Iq1a2cZf-DBvYt5x1I9Tcw_0000",
+    "industry": "hospital & health care",
+    "inferred_salary": "55,000-70,000",
+    "inferred_years_experience": 13.0,
+    "interests": [
+      "social services",
+      "children",
+      "economic empowerment",
+      "environment",
+      "education",
+      "science and technology",
+      "disaster and humanitarian relief",
+      "human rights",
+      "animal welfare",
+      "health"
+    ],
+    "job_company_facebook_url": "facebook.com/catholichospice.org",
+    "job_company_founded": 1988.0,
+    "job_company_id": "catholic-hospice",
+    "job_company_industry": "hospital & health care",
+    "job_company_linkedin_id": 383315.0,
+    "job_company_linkedin_url": "linkedin.com/company/catholic-hospice",
+    "job_company_location_address_line_2": "n/a",
+    "job_company_location_continent": "north america",
+    "job_company_location_country": "united states",
+    "job_company_location_geo": "25.91,-80.32",
+    "job_company_location_locality": "miami lakes",
+    "job_company_location_metro": "miami, florida",
+    "job_company_location_name": "miami lakes, florida, united states",
+    "job_company_location_postal_code": "33014",
+    "job_company_location_region": "florida",
+    "job_company_location_street_address": "14875 northwest 77th avenue",
+    "job_company_name": "catholic hospice",
+    "job_company_size": "201-500",
+    "job_company_twitter_url": "n/a",
+    "job_company_website": "catholichospice.org",
+    "job_last_updated": "2022-03-09",
+    "job_start_date": "2021-07",
+    "job_summary": "n/a",
+    "job_title": "nurse",
+    "job_title_levels": [],
+    "job_title_role": "health",
+    "job_title_sub_role": "nursing",
+    "languages": [
+      { "name": "english", "proficiency": null },
+      { "name": "spanish", "proficiency": null }
+    ],
+    "last_initial": "d",
+    "last_name": "del pino",
+    "location_address_line_2": "n/a",
+    "location_continent": "north america",
+    "location_country": "united states",
+    "location_geo": "25.85,-80.27",
+    "location_last_updated": "2022-03-09",
+    "location_locality": "hialeah",
+    "location_metro": "miami, florida",
+    "location_name": "hialeah, florida, united states",
+    "location_names": ["hialeah, florida, united states", "miami, florida, united states"],
+    "location_postal_code": "n/a",
+    "location_region": "florida",
+    "location_street_address": "n/a",
+    "middle_initial": "m",
+    "middle_name": "maria",
+    "myloc": { "lat": 25.85, "lon": -80.27 },
+    "operation_id": "d24dadeccd8810e1235373abe0f4fe1aebefa3bcbf38a5cde9b5bb8f8607543d",
+    "regions": ["florida, united states"],
+    "skills": [
+      "healthcare",
+      "hospitals",
+      "nursing",
+      "clinical research",
+      "healthcare management",
+      "cpr certified",
+      "treatment",
+      "emr",
+      "inpatient",
+      "hipaa",
+      "cardiopulmonary resuscitation"
+    ],
+    "summary": "Nurse at Home health Care and Florida Public Schools",
+    "version_status": {
+      "contains": [],
+      "current_version": "18.0",
+      "previous_version": "17.0",
+      "status": "updated"
+    },
+    "work_email": "n/a"
+  },
+  "_type": "_doc",
+  "_version": 1,
+  "connection": {},
+  "found": true,
+  "isConnected": "False",
+  "credits": "9957"
+}

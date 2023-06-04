@@ -1,0 +1,714 @@
+{
+  "card_pane": {
+    "education": [{ "degrees": ["CE31", "High School"] }],
+    "id": "cab_f5422140-c682-3d50-a299-daf5c298687d",
+    "job": [
+      {
+        "title": {
+          "levels": ["Cardiology clinic nurse"],
+          "name": "Cardiology clinic nurse"
+        }
+      }
+    ],
+    "labels": {
+      "candidate_id": "f5422140-c682-3d50-a299-daf5c298687d",
+      "contact_score": null,
+      "date_score": null,
+      "experience_years": 4,
+      "final_score": null,
+      "last_updated": "2022-07-16T19:29:37Z",
+      "salary": null,
+      "tdfidf": null,
+      "unlock_status": null
+    },
+    "location": "Kearney, Nebraska",
+    "name": { "first_name": "Mary", "last_name": "Haag" },
+    "outreach": true,
+    "profiles": {
+      "Edge": [
+        {
+          "Network": "Edge",
+          "URL": "http://edge.careerbuilder.com/profile/f5422140-c682-3d50-a299-daf5c298687d"
+        },
+        {
+          "Network": "Edge",
+          "URL": "http://edge.careerbuilder.com/profile/e20d3976-8b78-335c-b536-e7ce3a3809e9"
+        }
+      ]
+    },
+    "skills": ["cardiology", "endocrinology", "na"]
+  },
+  "data_base64": "PGh0bWw+CjxoZWFkPjwvaGVhZD4KPGJvZHk+CjxkaXY+CjxkaXYgc3R5bGU9InBvc2l0aW9uOiByZWxhdGl2ZTsiPgo8dGtfbWV0YWRhdGEgbmFtZT0ibGFzdF9tb2RpZmllZCIgdmFsdWU9IiI+CjwvdGtfbWV0YWRhdGE+Cjx0a19tZXRhZGF0YSBuYW1lPSJhdXRob3IiIHZhbHVlPSIiPgo8L3RrX21ldGFkYXRhPgo8cD4gPC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpjZW50ZXI7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPk1BUlkgU1VFIEhBQUc8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246Y2VudGVyO21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj4zMDggV2VzdCAzMzwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+PHN1cD5yZDwvc3VwPjwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IFN0cmVldDwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpjZW50ZXI7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPktlYXJuZXkgTkUgNjg4NDU8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246Y2VudGVyO21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj4zMDgtNTIwLTA5NDI8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246Y2VudGVyO21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+wqA8L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPjxpPk15IE1pc3Npb248L2k+PC9zcGFuPjxzcGFuIGRpcj0icnRsIj46IFRvIHByb3ZpZGUgbXkgY2xpZW50cy9wYXRpZW50cyB3aXRoIHRoZSBiZXN0IHNlcnZpY2UgYW5kIGV4Y2VwdGlvbmFsIGNhcmU7IHRvIGFkdmlzZSBhbmQgYWR2b2NhdGUgdG8gdGhlIGJlc3Qgb2YgbXkgYWJpbGl0eTsgVG8gdXNlIG15IHNraWxscyBhcyBhIG51cnNlIHRvIGJlbmVmaXQgcGF0aWVudHMgYW5kIHByb3ZpZGVycyBieSBwcm92aWRpbmcgY29tcGFzc2lvbmF0ZSwgZWZmaWNpZW50LMKgcXVhbGl0eSBoZWFsdGggY2FyZSBhbmQgZWR1Y2F0aW9uIHdpdGhpbiBteSBzY29wZSBvZiBwcmFjdGljZTsgVG8gc3VjY2Vzc2Z1bGx5IG1hcmtldCBteSBwbGFjZSBvZsKgZW1wbG95bWVudC9wcm9kdWN0cyB0byBpbnRlcmVzdGVkIHBvdGVudGlhbCBjdXN0b21lcnMvY2xpZW50cyBmb3IgYnVpbGRpbmcgYnVzaW5lc3MgYW5kIGxhc3RpbmcgcmVsYXRpb25zaGlwcy48L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+PGI+RXhwZXJpZW5jZTo8L2I+PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPlBsYXR0ZSBWYWxsZXkgTWVkaWNhbCBHcm91cDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+SnVseSAyMDE4LXByZXNlbnQ8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+Q2FyZGlvbG9neSBjbGluaWMgbnVyc2U8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+Q0hJLyBSaWNoYXJkIFlvdW5nIE91dHBhdGllbnQgQ2xpbmljPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IEp1bmUgMjAxNi1KdWx5IDIwMTg8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+UHN5Y2hpYXRyaWMgQ2xpbmljIE51cnNlPC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPlBlZGlhdHJpYyBQYXJ0bmVycyhQYXJ0IHRpbWUgZmlsbCBpbiBqb2IpIDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj5NYXJjaCAyMDE2IOKAkyBKdW5lIDIwMTY8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+Q2xpbmljIE51cnNlPC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPkZyZW1vbnQgVHJpYnVuZTwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj5KdW5lIDIwMTUtTWFyY2ggMjAxNjwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj48aT5TYWxlcyBNYW5hZ2VyPC9pPjwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5BcmJvciBNYW5vcjwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPk1hcmNoIDIwMTMtSnVuZSAyMDE1PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPk1EUyBDb29yZGluYXRvcjwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5HcmVhdCBQbGFpbnMgUmVnaW9uYWwgTWVkaWNhbCBDZW50ZXI8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+SmFudWFyeSAyMDEyLU1hcmNoIDIwMTM8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+Q2xpbmljIE51cnNlLUVuZG9jcmlub2xvZ3k8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+TWFyYW5hdGhhIEJpYmxlIENhbXA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPk1heSAyMDA5LUphbnVhcnkgMjAxMjwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5DYW1wIE51cnNlLzwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+PGk+TWFya2V0aW5nIERpcmVjdG9yPC9pPjwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5GYW1pbHkgTWVkaWNhbCBBc3NvY2lhdGVzPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj5NYXJjaCAyMDA1LU1heSAyMDA5PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPkNsaW5pYyBOdXJzZTwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5Ob3J0aCBQbGF0dGUgVGVsZWdyYXBoPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj5KYW51YXJ5IDIwMDEtTWFyY2ggMjAwNTwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj48aT5BZHZlcnRpc2luZyBFeGVjdXRpdmU8L2k+PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPjxiPkVkdWNhdGlvbjo8L2I+PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPk1pZCBQbGFpbnMgQ29tbXVuaXR5IENvbGxlZ2U8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtaW5kZW50OjAuNTBpbjt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPlByYWN0aWNhbCBOdXJzaW5nIFByb2dyYW08L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtaW5kZW50OjAuNTBpbjt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPkVtZXJnZW5jeSBNZWRpY2FsIFRlY2huaWNpYW48L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtaW5kZW50OjAuNTBpbjt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPlZhcmlvdXMgb3RoZXIgY2xhc3NlcyBpbmNsdWRpbmcgcHN5Y2hvbG9neSwgc29jaW9sb2d5LCBhY2NvdW50aW5nLCBlZHVjYXRpb248L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPsKgPC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5NY0Nvb2sgU2VuaW9yIEhpZ2ggU2Nob29sPC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij7CoDwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+PGI+UmVmZXJlbmNlczo8L2I+PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPkpvQW5uIEdyaWZmaW4gPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+MzA4LTUzNC0zNDQ4PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWluZGVudDowLjUwaW47dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5STjwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5HaWRnZXQgSGFydG1hbjwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj43ODUtNjg3LTgxNjI8L3NwYW4+PC9zcGFuPjwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtaW5kZW50OjAuNTBpbjt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPlBUQTwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5HaW5hIEp1ZGdlPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+NTE1LTIzMC00OTgwPC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWluZGVudDowLjUwaW47dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5STiwgQlNOPC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6J0NhbGlicmknO2ZvbnQtc2l6ZToxMnB0OyI+PHNwYW4gZGlyPSJydGwiPkdheWxlIFJvZ2Vyczwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+IMKgPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPjMwOC0zMjUtMDUzMDwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1pbmRlbnQ6MC41MGluO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPjxzcGFuIHN0eWxlPSJmb250LWZhbWlseTonQ2FsaWJyaSc7Zm9udC1zaXplOjEycHQ7Ij48c3BhbiBkaXI9InJ0bCI+Uk4sIEJTTjwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5Ib3BlIEJlbm5lPC9zcGFuPjxzcGFuIGRpcj0icnRsIj4gwqA8L3NwYW4+PHNwYW4gZGlyPSJydGwiPiDCoDwvc3Bhbj48c3BhbiBkaXI9InJ0bCI+NDAyLTg3MC0yMDg4PC9zcGFuPjwvc3Bhbj48L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWluZGVudDowLjUwaW47dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OidDYWxpYnJpJztmb250LXNpemU6MTJwdDsiPjxzcGFuIGRpcj0icnRsIj5SZWFsIEVzdGF0ZSBBZ2VudCAoZm9ybWVyIGVtcGxveWVlKTwvc3Bhbj48L3NwYW4+PC9wPgo8cCBzdHlsZT0id2hpdGUtc3BhY2U6cHJlLXdyYXA7dGV4dC1hbGlnbjpsZWZ0O21hcmdpbi10b3A6MC4wMGluO21hcmdpbi1ib3R0b206MC4xMWluOyI+wqA8L3A+CjxwIHN0eWxlPSJ3aGl0ZS1zcGFjZTpwcmUtd3JhcDt0ZXh0LWFsaWduOmxlZnQ7bWFyZ2luLXRvcDowLjAwaW47bWFyZ2luLWJvdHRvbTowLjExaW47Ij7CoDwvcD4KPHAgc3R5bGU9IndoaXRlLXNwYWNlOnByZS13cmFwO3RleHQtYWxpZ246bGVmdDttYXJnaW4tdG9wOjAuMDBpbjttYXJnaW4tYm90dG9tOjAuMTFpbjsiPsKgPC9wPgo8L2Rpdj4KPC9kaXY+CjwvYm9keT4KPC9odG1sPg==",
+  "raw_response": {
+    "data": {
+      "About": [],
+      "Attributes": {
+        "EdgeID": "f5422140-c682-3d50-a299-daf5c298687d",
+        "Folders": [],
+        "IsFavorite": false,
+        "IsHidden": false,
+        "LastAccessed": "2022-07-18T00:00:00Z",
+        "ModifiedDT": "2022-07-18T19:06:08.83Z",
+        "UserDID": "U796SX6CMH3C9VBGRNN",
+        "Views": 6
+      },
+      "Awards": [],
+      "Certifications": [],
+      "ChildrenEdgeIDs": [
+        "f5422140-c682-3d50-a299-daf5c298687d",
+        "e20d3976-8b78-335c-b536-e7ce3a3809e9",
+        "0dc8f989-412a-3b77-b186-c515fe8ac545",
+        "95af43e8-e9eb-3255-a4a2-89a8b3db356e",
+        "4a484088-64dd-33fe-aa2b-3edcb89ccba3"
+      ],
+      "CustomProperties": {
+        "ResumeDB_Degree__s": {
+          "Timestamps": { "Timestamps": {} },
+          "Value": "High School"
+        },
+        "ResumeDB_Ethnicity__s": {
+          "Timestamps": { "Timestamps": {} },
+          "Value": "ETHNS"
+        },
+        "ResumeDB_Relocate__s": {
+          "Timestamps": { "Timestamps": {} },
+          "Value": "US (Not Specified)"
+        },
+        "ResumeDB_ResumeTitle__s": {
+          "Timestamps": { "Timestamps": {} },
+          "Value": "Cardiology clinic nurse"
+        },
+        "ResumeDB_SecurityClearance__s": {
+          "Timestamps": { "Timestamps": {} },
+          "Value": "No"
+        }
+      },
+      "EdgeID": "f5422140-c682-3d50-a299-daf5c298687d",
+      "EdgeScore": 95,
+      "Educations": [
+        {
+          "Concentration": "Practical Nursing Program  Emergency Medical Techn",
+          "DateGraduated": { "UtcDay": 1, "UtcMonth": 1, "UtcYear": 1970 },
+          "DegreeLevel": "CE31",
+          "Institution": "Mid Plains Community College",
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "Source": "Edge",
+          "Sources": [],
+          "Timestamps": { "Timestamps": {} }
+        },
+        {
+          "DegreeLevel": "High School",
+          "Institution": "Mid Plains Community College",
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "Source": "ResumeDB",
+          "Sources": ["ResumeDB"],
+          "Timestamps": { "Timestamps": {} },
+          "Title": "Practical Nursing Program; Emergency Medical Technician"
+        }
+      ],
+      "Employments": [
+        {
+          "Classifications": {},
+          "DateCompanyStart": { "UtcDay": 1, "UtcMonth": 7, "UtcYear": 2018 },
+          "DateFrom": { "UtcDay": 1, "UtcMonth": 7, "UtcYear": 2018 },
+          "DateTo": { "UtcDay": 1, "UtcMonth": 3, "UtcYear": 2005 },
+          "Employer": "Platte Valley Medical Group",
+          "EmployerInformation": {
+            "CompanySize": 115,
+            "Confidence": 0.87960671545269775,
+            "DUNS": "070128004",
+            "HeadquarterLocation": {
+              "AddressLine1": "3219 Central Ave Ste 200",
+              "City": "Kearney",
+              "CountryCode": "US",
+              "Source": "Internal",
+              "Sources": ["Internal"],
+              "State": "NE",
+              "Timestamps": { "Timestamps": {} },
+              "ZipCode": "68847-2958"
+            },
+            "NAICS": "621111",
+            "NormalizedName": "Platte Valley Medical Group, P.C.",
+            "Website": "www.pvmc.org"
+          },
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "Position": "Cardiology clinic nurse",
+          "Source": "AnonymousResume",
+          "Sources": ["AnonymousResume", "Internal"],
+          "Timestamps": { "Timestamps": {} }
+        }
+      ],
+      "IDs": {
+        "Edge": {
+          "Identifiers": [
+            {
+              "ID": "f5422140-c682-3d50-a299-daf5c298687d",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {
+                  "AResumeDID": "AR2L55B69JB4QP9DMJ4W",
+                  "ResumeDate": "2021-11-16 16:34:33.937"
+                },
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "Edge",
+              "Sources": ["AnonymousResume", "ProgressiveProfile", "ResumeDB", "Edge"],
+              "Timestamps": {
+                "Timestamps": {
+                  "LatestSeenEvidence": {
+                    "SourceDates": {
+                      "AnonymousResume": "2021-11-16T21:34:33.937Z"
+                    },
+                    "Timestamp": "2021-11-16T21:34:33.937Z",
+                    "TimestampType": "LatestSeenEvidence"
+                  },
+                  "ProfileModified": {
+                    "SourceDates": {
+                      "AnonymousResume": "2021-11-16T21:34:33.937Z"
+                    },
+                    "Timestamp": "2021-11-16T21:34:33.937Z",
+                    "TimestampType": "ProfileModified"
+                  },
+                  "ResumeLastModified": {
+                    "SourceDates": {
+                      "AnonymousResume": "2021-11-16T21:34:33.937Z"
+                    },
+                    "Timestamp": "2021-11-16T21:34:33.937Z",
+                    "TimestampType": "ResumeLastModified"
+                  },
+                  "SourceAcquired": {
+                    "SourceDates": {
+                      "AnonymousResume": "2022-03-31T12:54:07.543Z"
+                    },
+                    "Timestamp": "2022-03-31T12:54:07.543Z",
+                    "TimestampType": "SourceAcquired"
+                  }
+                }
+              },
+              "URL": "http://edge.careerbuilder.com/profile/f5422140-c682-3d50-a299-daf5c298687d",
+              "VerificationStatus": "VerifiedByCB"
+            },
+            {
+              "ID": "0dc8f989-412a-3b77-b186-c515fe8ac545",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "Edge",
+              "Sources": ["Edge"],
+              "Timestamps": { "Timestamps": {} },
+              "URL": ""
+            },
+            {
+              "ID": "4a484088-64dd-33fe-aa2b-3edcb89ccba3",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "Edge",
+              "Sources": ["ResumeDB"],
+              "Timestamps": { "Timestamps": {} }
+            },
+            {
+              "ID": "95af43e8-e9eb-3255-a4a2-89a8b3db356e",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "Edge",
+              "Sources": ["ResumeDB"],
+              "Timestamps": { "Timestamps": {} },
+              "URL": ""
+            }
+          ],
+          "Network": "Edge"
+        },
+        "Email": {
+          "Identifiers": [
+            {
+              "ID": "a7i64x8eu3nwhpmk37m~mqm4tbqtei3+9sz4o.5as@proxy.jobs.net",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {
+                  "AResumeDID": "AR2L55B69JB4QP9DMJ4W",
+                  "ResumeDate": "2021-11-16 16:34:33.937"
+                },
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "Email",
+              "Sources": ["AnonymousResume", "Internal", "ProgressiveProfile", "ResumeDB"],
+              "Timestamps": {
+                "Timestamps": {
+                  "LatestSeenEvidence": {
+                    "SourceDates": {
+                      "AnonymousResume": "2021-11-16T21:34:33.937Z"
+                    },
+                    "Timestamp": "2021-11-16T21:34:33.937Z",
+                    "TimestampType": "LatestSeenEvidence"
+                  },
+                  "ProfileModified": {
+                    "SourceDates": {
+                      "AnonymousResume": "2021-11-16T21:34:33.937Z"
+                    },
+                    "Timestamp": "2021-11-16T21:34:33.937Z",
+                    "TimestampType": "ProfileModified"
+                  },
+                  "ResumeLastModified": {
+                    "SourceDates": {
+                      "AnonymousResume": "2021-11-16T21:34:33.937Z"
+                    },
+                    "Timestamp": "2021-11-16T21:34:33.937Z",
+                    "TimestampType": "ResumeLastModified"
+                  },
+                  "SourceAcquired": {
+                    "SourceDates": {
+                      "AnonymousResume": "2022-03-31T12:54:07.543Z"
+                    },
+                    "Timestamp": "2022-03-31T12:54:07.543Z",
+                    "TimestampType": "SourceAcquired"
+                  }
+                }
+              },
+              "URL": "",
+              "VerificationStatus": "VerifiedByCB"
+            }
+          ],
+          "Network": "Email"
+        },
+        "EmailMD5Hash": {
+          "Identifiers": [
+            {
+              "ID": "14bfc946f13469b6c887a887d7ade144",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "EmailMD5Hash",
+              "Sources": ["Internal", "ProgressiveProfile", "ResumeDB"],
+              "Timestamps": { "Timestamps": {} },
+              "URL": "",
+              "VerificationStatus": "VerifiedBy3rdParty"
+            }
+          ],
+          "Network": "EmailMD5Hash"
+        },
+        "Gmail": {
+          "Identifiers": [
+            {
+              "ID": "a7i64x8eu3nwhpmk37m~mqm4tbqtei3+9sz4o.5as@proxy.jobs.net",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "Gmail",
+              "Sources": ["Internal", "ProgressiveProfile", "ResumeDB"],
+              "Timestamps": { "Timestamps": {} },
+              "URL": "",
+              "VerificationStatus": "VerifiedBy3rdParty"
+            }
+          ],
+          "Network": "Gmail"
+        },
+        "ResumeDBDID": {
+          "Identifiers": [
+            {
+              "ID": "r2y7f872r363gt0xdml",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {
+                  "HostSite": "US",
+                  "SliceCodes": "[\"dma722\",\"regmw\",\"sd\",\"us\"]"
+                },
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "ResumeDBDID",
+              "Sources": ["ResumeDB", "ProgressiveProfile"],
+              "Timestamps": {
+                "Timestamps": {
+                  "LatestSeenEvidence": {
+                    "SourceDates": {
+                      "ProgressiveProfile": "2022-07-16T19:29:37Z"
+                    },
+                    "Timestamp": "2022-07-16T19:29:37Z",
+                    "TimestampType": "LatestSeenEvidence"
+                  },
+                  "ProfileModified": {
+                    "SourceDates": {
+                      "ProgressiveProfile": "2022-07-16T19:29:37Z"
+                    },
+                    "Timestamp": "2022-07-16T19:29:37Z",
+                    "TimestampType": "ProfileModified"
+                  },
+                  "ResumeLastModified": {
+                    "SourceDates": {
+                      "ProgressiveProfile": "2022-07-16T19:29:37Z"
+                    },
+                    "Timestamp": "2022-07-16T19:29:37Z",
+                    "TimestampType": "ResumeLastModified"
+                  },
+                  "SourceAcquired": {
+                    "SourceDates": {
+                      "ProgressiveProfile": "2022-07-16T19:29:37Z"
+                    },
+                    "Timestamp": "2022-07-16T19:29:37Z",
+                    "TimestampType": "SourceAcquired"
+                  }
+                }
+              },
+              "URL": "http://www.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=r2y7f872r363gt0xdml&showrdb=true"
+            }
+          ],
+          "Network": "ResumeDBDID"
+        },
+        "ResumeDBWordDocDID": {
+          "Identifiers": [
+            {
+              "ID": "r2y7f872r363gt0xdml:rw2n42x75npfhz6nh1gh",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "ResumeDBWordDocDID",
+              "Sources": ["ResumeDB"],
+              "Timestamps": { "Timestamps": {} },
+              "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rw2n42x75npfhz6nh1gh&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=r2y7f872r363gt0xdml&view=all"
+            }
+          ],
+          "Network": "ResumeDBWordDocDID"
+        },
+        "ResumeHash": {
+          "Identifiers": [
+            {
+              "ID": "ocg12cmkxwvbfrwdwpvpxvslpwy=",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "ResumeHash",
+              "Sources": ["ResumeDB"],
+              "Timestamps": { "Timestamps": {} },
+              "URL": ""
+            },
+            {
+              "ID": "wzeievxelqno8f9bqv/jgigkpow=",
+              "Metadata": {
+                "CrowdSourcing": { "Suggestions": [] },
+                "Properties": {},
+                "Type": "Unknown",
+                "Validity": "NotValidated",
+                "ValidityMap": {}
+              },
+              "Network": "ResumeHash",
+              "Sources": ["ResumeDB"],
+              "Timestamps": { "Timestamps": {} },
+              "URL": ""
+            }
+          ],
+          "Network": "ResumeHash"
+        }
+      },
+      "Industries": ["Offices of Physicians (except Mental Health Specialists)"],
+      "JobTitle": "Cardiology clinic nurse",
+      "Keywords": {
+        "cardiology": {
+          "Keyword": "cardiology",
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "SkillCodes": {},
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "Popularity": 1,
+          "Source": "ResumeDB",
+          "Sources": ["ResumeDB"],
+          "Timestamps": { "Timestamps": {} },
+          "Viewable": true
+        },
+        "endocrinology": {
+          "Keyword": "endocrinology",
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "SkillCodes": {},
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "Popularity": 1,
+          "Source": "ResumeDB",
+          "Sources": ["ResumeDB"],
+          "Timestamps": { "Timestamps": {} },
+          "Viewable": true
+        },
+        "na": {
+          "Keyword": "na",
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "SkillCodes": {},
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "Popularity": 1,
+          "Score": 93,
+          "Source": "ResumeDB",
+          "Sources": ["ResumeDB"],
+          "Timestamps": { "Timestamps": {} },
+          "Viewable": true
+        }
+      },
+      "Locations": {
+        "CurrentLocations": [
+          {
+            "AddressLine1": "308 West 33rd Street",
+            "City": "Kearney",
+            "Country": "United States",
+            "CountryCode": "US",
+            "County": "Buffalo County",
+            "FreeLocation": "Kearney, NE 68845, USA",
+            "Latitude": 40.7389,
+            "Longitude": -99.1979,
+            "Source": "AnonymousResume",
+            "Sources": ["AnonymousResume", "ResumeDB", "ProgressiveProfile"],
+            "State": "Nebraska",
+            "StateCode": "NE",
+            "Timestamps": {
+              "Timestamps": {
+                "LatestSeenEvidence": {
+                  "SourceDates": { "ResumeDB": "2022-07-16T15:33:42.823Z" },
+                  "Timestamp": "2022-07-16T15:33:42.823Z",
+                  "TimestampType": "LatestSeenEvidence"
+                },
+                "LatestSourceAccess": {
+                  "SourceDates": {
+                    "ProgressiveProfile": "2022-07-16T23:33:45Z"
+                  },
+                  "Timestamp": "2022-07-16T23:33:45Z",
+                  "TimestampType": "LatestSourceAccess"
+                },
+                "SourceAcquired": {
+                  "SourceDates": {
+                    "AnonymousResume": "2022-03-31T12:54:07.543Z",
+                    "ProgressiveProfile": "2022-07-17T10:06:47.858472Z",
+                    "ResumeDB": "2022-07-16T15:33:42.823Z"
+                  },
+                  "Timestamp": "2022-07-17T10:06:47.858472Z",
+                  "TimestampType": "SourceAcquired"
+                }
+              }
+            },
+            "ZipCode": "68845"
+          }
+        ],
+        "DesiredLocations": []
+      },
+      "Memberships": [],
+      "Metadata": {
+        "CrowdSourcing": { "Suggestions": [] },
+        "Ethnicities": [],
+        "FreshnessRange": "ONE_YEAR",
+        "Signals": [
+          {
+            "Timestamp": "2022-04-22T04:00:00Z",
+            "Value": 0.1426,
+            "Version": "v2"
+          }
+        ],
+        "Validity": "NotValidated",
+        "ValidityMap": {}
+      },
+      "Names": [
+        {
+          "First": "Mary",
+          "IsExtractedName": false,
+          "IsProbablyRealName": true,
+          "Last": "Haag",
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "Gender": "Ambiguous",
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "ProbCorrectFirstLastOrdering": 0.9999100126426641,
+          "Source": "AnonymousResume",
+          "Sources": ["AnonymousResume"],
+          "Timestamps": {
+            "Timestamps": {
+              "SourceAcquired": {
+                "SourceDates": {
+                  "AnonymousResume": "2022-03-31T12:54:07.543Z"
+                },
+                "Timestamp": "2022-03-31T12:54:07.543Z",
+                "TimestampType": "SourceAcquired"
+              }
+            }
+          }
+        },
+        {
+          "First": "Susieque",
+          "IsExtractedName": true,
+          "IsProbablyRealName": true,
+          "Metadata": {
+            "CrowdSourcing": { "Suggestions": [] },
+            "Validity": "NotValidated",
+            "ValidityMap": {}
+          },
+          "Source": "Internal",
+          "Sources": ["Internal"],
+          "Timestamps": { "Timestamps": {} }
+        }
+      ],
+      "ONetCodes": [],
+      "Phones": [],
+      "Photos": [],
+      "ProfileSources": {
+        "AnonymousResume": [],
+        "InternetStandard": [],
+        "ProgressiveProfile": [],
+        "ResumeDB": [
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://www.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=r2y7f872r363gt0xdml&showrdb=true"
+          },
+          {
+            "Network": "ResumeDBWordDocDID",
+            "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rw2n42x75npfhz6nh1gh&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=r2y7f872r363gt0xdml&view=all"
+          }
+        ]
+      },
+      "Profiles": {
+        "Edge": [
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/f5422140-c682-3d50-a299-daf5c298687d"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/e20d3976-8b78-335c-b536-e7ce3a3809e9"
+          }
+        ]
+      },
+      "Publications": [],
+      "ResumeLastModified": "2022-07-16T19:29:37Z",
+      "Resumes": [
+        {
+          "ActiveHistory": "2022/07",
+          "HTMLContent": "<html>\n <head></head>\n <body>\n  <div>\n   <div style=\"position: relative;\">\n    <tk_metadata name=\"last_modified\" value=\"\"> \n    </tk_metadata>\n    <tk_metadata name=\"author\" value=\"\"> \n    </tk_metadata> \n    <p> </p> \n    <p style=\"white-space:pre-wrap;text-align:center;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">MARY SUE HAAG</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:center;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">308 West 33</span><span dir=\"rtl\"><sup>rd</sup></span><span dir=\"rtl\"> Street</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:center;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Kearney NE 68845</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:center;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">308-520-0942</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:center;margin-top:0.00in;margin-bottom:0.11in;\">&nbsp;</p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\"><i>My Mission</i></span><span dir=\"rtl\">: To provide my clients/patients with the best service and exceptional care; to advise and advocate to the best of my ability; To use my skills as a nurse to benefit patients and providers by providing compassionate, efficient,&nbsp;quality health care and education within my scope of practice; To successfully market my place of&nbsp;employment/products to interested potential customers/clients for building business and lasting relationships.</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\"><b>Experience:</b></span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Platte Valley Medical Group</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">July 2018-present</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Cardiology clinic nurse</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">CHI/ Richard Young Outpatient Clinic</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> June 2016-July 2018</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Psychiatric Clinic Nurse</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Pediatric Partners(Part time fill in job) </span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">March 2016 – June 2016</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Clinic Nurse</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Fremont Tribune</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">June 2015-March 2016</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\"><i>Sales Manager</i></span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Arbor Manor</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">March 2013-June 2015</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">MDS Coordinator</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Great Plains Regional Medical Center</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">January 2012-March 2013</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Clinic Nurse-Endocrinology</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Maranatha Bible Camp</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">May 2009-January 2012</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Camp Nurse/</span><span dir=\"rtl\"><i>Marketing Director</i></span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Family Medical Associates</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">March 2005-May 2009</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Clinic Nurse</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">North Platte Telegraph</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">January 2001-March 2005</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\"><i>Advertising Executive</i></span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\"><b>Education:</b></span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Mid Plains Community College</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Practical Nursing Program</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Emergency Medical Technician</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Various other classes including psychology, sociology, accounting, education</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\">&nbsp;</p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">McCook Senior High School</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\">&nbsp;</p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\"><b>References:</b></span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">JoAnn Griffin </span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">308-534-3448</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">RN</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Gidget Hartman</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">785-687-8162</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">PTA</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Gina Judge</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">515-230-4980</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">RN, BSN</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Gayle Rogers</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">308-325-0530</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">RN, BSN</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Hope Benne</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\"> &nbsp;</span><span dir=\"rtl\">402-870-2088</span></span></p> \n    <p style=\"white-space:pre-wrap;text-indent:0.50in;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\"><span style=\"font-family:''Calibri'';font-size:12pt;\"><span dir=\"rtl\">Real Estate Agent (former employee)</span></span></p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\">&nbsp;</p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\">&nbsp;</p> \n    <p style=\"white-space:pre-wrap;text-align:left;margin-top:0.00in;margin-bottom:0.11in;\">&nbsp;</p> \n   </div>\n  </div> \n </body>\n</html>",
+          "HasBlob": true,
+          "ModifiedDate": "2022-07-16T15:33:42.823Z",
+          "RecentJobTitle": "",
+          "ResumeDID": "R2Y7F872R363GT0XDML",
+          "ResumeTitle": "Cardiology clinic nurse",
+          "TextContent": "MARY SUE HAAG\n308 West 33rd Street\nKearney NE 68845\n308-520-0942\n\nMy Mission: To provide my clients/patients with the best service and exceptional care; to advise and\nadvocate to the best of my ability; To use my skills as a nurse to benefit patients and providers by\nproviding compassionate, efficient, quality health care and education within my scope of practice;\nTo successfully market my place of employment/products to interested potential customers/clients for\nbuilding business and lasting relationships.\nExperience:\nPlatte Valley Medical Group                  July 2018-present\nCardiology clinic nurse\nCHI/ Richard Young Outpatient Clinic             June 2016-July 2018\nPsychiatric Clinic Nurse\nPediatric Partners(Part time fill in job)       March 2016 - June 2016\nClinic Nurse\nFremont Tribune                        June 2015-March 2016\nSales Manager\nArbor Manor                              March 2013-June 2015\nMDS Coordinator\nGreat Plains Regional Medical Center      January 2012-March 2013\nClinic Nurse-Endocrinology\nMaranatha Bible Camp                  May 2009-January 2012\nCamp Nurse/Marketing Director\nFamily Medical Associates                  March 2005-May 2009\nClinic Nurse\nNorth Platte Telegraph                  January 2001-March 2005\nAdvertising Executive\nEducation:\nMid Plains Community College\n      Practical Nursing Program\n      Emergency Medical Technician\n      Various other classes including psychology, sociology, accounting, education\n\nMcCook Senior High School\n\nReferences:\nJoAnn Griffin             308-534-3448\n      RN\nGidget Hartman      785-687-8162\n      PTA\nGina Judge            515-230-4980\n      RN, BSN\nGayle Rogers            308-325-0530\n      RN, BSN\nHope Benne            402-870-2088\n      Real Estate Agent (former employee)",
+          "UserDID": "U8S7F95Y5WB435V1268"
+        }
+      ],
+      "Sources": ["AnonymousResume", "Edge", "Internal", "ProgressiveProfile", "ResumeDB"],
+      "SpokenLanguages": [],
+      "Stats": { "CrowdSourcing": [] },
+      "Timestamps": {
+        "Timestamps": {
+          "LatestCareerEvent": {
+            "SourceDates": {
+              "AnonymousResume": "2018-07-01T00:00:00Z",
+              "ResumeDB": "2018-07-01T00:00:00Z"
+            },
+            "Timestamp": "2018-07-01T00:00:00Z",
+            "TimestampType": "LatestCareerEvent"
+          },
+          "LatestSeenEvidence": {
+            "SourceDates": {
+              "AnonymousResume": "2021-11-16T21:34:33.937Z",
+              "ProgressiveProfile": "2022-07-16T19:29:37Z",
+              "ResumeDB": "2022-07-16T15:33:42.823Z"
+            },
+            "Timestamp": "2022-07-16T19:29:37Z",
+            "TimestampType": "LatestSeenEvidence"
+          },
+          "LatestSourceAccess": {
+            "SourceDates": { "ResumeDB": "2022-07-16T15:33:42.823Z" },
+            "Timestamp": "2022-07-16T15:33:42.823Z",
+            "TimestampType": "LatestSourceAccess"
+          },
+          "ProfileModified": {
+            "SourceDates": {
+              "AnonymousResume": "2021-11-16T21:34:33.937Z",
+              "ProgressiveProfile": "2022-07-17T10:54:18Z",
+              "ResumeDB": "2022-07-16T15:33:42.823Z"
+            },
+            "Timestamp": "2022-07-17T10:54:18Z",
+            "TimestampType": "ProfileModified"
+          },
+          "ProgressiveProfileModified": {
+            "SourceDates": { "ProgressiveProfile": "2022-07-17T10:54:18Z" },
+            "Timestamp": "2022-07-17T10:54:18Z",
+            "TimestampType": "ProgressiveProfileModified"
+          },
+          "ResumeLastModified": {
+            "SourceDates": {
+              "AnonymousResume": "2021-11-16T21:34:33.937Z",
+              "ProgressiveProfile": "2022-07-16T19:29:37Z",
+              "ResumeDB": "2022-07-16T15:33:42.823Z"
+            },
+            "Timestamp": "2022-07-16T19:29:37Z",
+            "TimestampType": "ResumeLastModified"
+          },
+          "SourceAcquired": {
+            "SourceDates": {
+              "AnonymousResume": "2022-03-31T12:54:07.543Z",
+              "ProgressiveProfile": "2022-07-17T13:28:44.6254943Z",
+              "ResumeDB": "2022-07-16T15:33:42.823Z"
+            },
+            "Timestamp": "2022-07-17T13:28:44.6254943Z",
+            "TimestampType": "SourceAcquired"
+          },
+          "TDPProfileModified": {
+            "SourceDates": { "ProgressiveProfile": "2022-07-16T23:33:45Z" },
+            "Timestamp": "2022-07-16T23:33:45Z",
+            "TimestampType": "TDPProfileModified"
+          }
+        }
+      },
+      "Websites": [],
+      "YearsOfExperience": 4
+    },
+    "errors": [],
+    "status": "Success"
+  }
+}

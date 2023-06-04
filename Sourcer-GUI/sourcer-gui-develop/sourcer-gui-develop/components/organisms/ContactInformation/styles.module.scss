@@ -1,0 +1,13 @@
+.item {
+  &:last-of-type {
+    padding-bottom: 0 !important;
+  }
+}
+
+.list {
+  line-height: 1;
+
+  &:last-of-type {
+    border-bottom: 0 !important;
+  }
+}

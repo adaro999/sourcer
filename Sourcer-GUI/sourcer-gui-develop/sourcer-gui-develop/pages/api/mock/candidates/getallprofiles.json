@@ -1,0 +1,1697 @@
+{
+  "card": [
+    {
+      "education": [
+        {
+          "degrees": ["jobtarget demo"],
+          "end_date": "2007",
+          "end_date_score": 4.5399929762484852e-6,
+          "gpa": null,
+          "majors": [],
+          "minors": [],
+          "school": {
+            "domain": "uti.edu",
+            "facebook_url": null,
+            "id": "-LBGHxPvW3fVlvtPUm37AA_0",
+            "linkedin_id": "32672",
+            "linkedin_url": "linkedin.com/school/universal-technical-institute",
+            "location": {
+              "continent": "north america",
+              "country": "united states",
+              "locality": "phoenix",
+              "name": "phoenix, arizona, united states",
+              "region": "arizona"
+            },
+            "name": "jobtarget demo",
+            "twitter_url": null,
+            "type": "post-secondary institution",
+            "website": "uti.edu"
+          },
+          "start_date": "2006",
+          "summary": null
+        }
+      ],
+      "gender": "male",
+      "id": "pdl_test_1002",
+      "job": [
+        {
+          "company": {
+            "facebook_url": "facebook.com/cjenergy",
+            "founded": 1997,
+            "id": "c&j-energy-services-inc-",
+            "industry": "oil & energy",
+            "linkedin_id": "2208023",
+            "linkedin_url": "linkedin.com/company/c&j-energy-services-inc-",
+            "location": {
+              "address_line_2": null,
+              "continent": "north america",
+              "country": "united states",
+              "geo": "29.76,-95.36",
+              "locality": "houston",
+              "metro": "houston, texas",
+              "name": "houston, texas, united states",
+              "postal_code": "77042",
+              "region": "texas",
+              "street_address": "3990 rogerdale"
+            },
+            "name": "jobtarget demo",
+            "size": "5001-10000",
+            "twitter_url": "twitter.com/cjenergy",
+            "website": "cjenergy.com"
+          },
+          "end_date": "2018-09",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": ["longview, texas, united states"],
+          "primary_score": 0.0,
+          "start_date": "2017-05",
+          "summary": null,
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": null,
+            "founded": 1992,
+            "id": "basic-energy-services",
+            "industry": "oil & energy",
+            "linkedin_id": "227883",
+            "linkedin_url": "linkedin.com/company/basic-energy-services",
+            "location": {
+              "address_line_2": null,
+              "continent": "north america",
+              "country": "united states",
+              "geo": null,
+              "locality": null,
+              "metro": null,
+              "name": "texas, united states",
+              "postal_code": "76102",
+              "region": "texas",
+              "street_address": null
+            },
+            "name": "jobtarget demo",
+            "size": "1001-5000",
+            "twitter_url": null,
+            "website": "basicenergyservices.com"
+          },
+          "end_date": "2017-05",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": ["longview, texas, united states"],
+          "primary_score": 0.0,
+          "start_date": "2016-02",
+          "summary": "Truck and trailer mechanic, field workover mechanic",
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": "facebook.com/mhckenworth",
+            "founded": 1975,
+            "id": "murphy-hoffman-company",
+            "industry": "transportation/trucking/railroad",
+            "linkedin_id": "92974",
+            "linkedin_url": "linkedin.com/company/murphy-hoffman-company",
+            "location": {
+              "address_line_2": null,
+              "continent": "north america",
+              "country": "united states",
+              "geo": "38.96,-94.61",
+              "locality": "leawood",
+              "metro": "kansas city, missouri",
+              "name": "leawood, kansas, united states",
+              "postal_code": "66211",
+              "region": "kansas",
+              "street_address": "11120 tomahawk creek parkway"
+            },
+            "name": "jobtarget demo",
+            "size": "1001-5000",
+            "twitter_url": "twitter.com/mhckenworth",
+            "website": "mhc.com"
+          },
+          "end_date": "2015-08",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": ["longview, texas, united states"],
+          "primary_score": 0.0,
+          "start_date": "2014-12",
+          "summary": "Mobile service technician for on-road and off-road heavy trucks and equipment",
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": null,
+            "founded": 2002,
+            "id": "fts-international",
+            "industry": "oil & energy",
+            "linkedin_id": "1046059",
+            "linkedin_url": "linkedin.com/company/fts-international",
+            "location": {
+              "address_line_2": "suite 2900",
+              "continent": "north america",
+              "country": "united states",
+              "geo": "32.72,-97.32",
+              "locality": "fort worth",
+              "metro": "dallas, texas",
+              "name": "fort worth, texas, united states",
+              "postal_code": "76102",
+              "region": "texas",
+              "street_address": "777 main street"
+            },
+            "name": "jobtarget demo",
+            "size": "1001-5000",
+            "twitter_url": "twitter.com/fts_intl",
+            "website": "ftsi.com"
+          },
+          "end_date": "2010-06",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": [],
+          "primary_score": 0.0,
+          "start_date": "2010-02",
+          "summary": "p/m mechanic, light-duty repairs",
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": "facebook.com/halliburton",
+            "founded": 1919,
+            "id": "halliburton",
+            "industry": "oil & energy",
+            "linkedin_id": "2217",
+            "linkedin_url": "linkedin.com/company/halliburton",
+            "location": {
+              "address_line_2": null,
+              "continent": "north america",
+              "country": "united states",
+              "geo": "29.76,-95.36",
+              "locality": "houston",
+              "metro": "houston, texas",
+              "name": "houston, texas, united states",
+              "postal_code": "77032",
+              "region": "texas",
+              "street_address": "3000 north sam houston parkway east"
+            },
+            "name": "jobtarget demo",
+            "size": "10001+",
+            "twitter_url": "twitter.com/halliburton",
+            "website": "halliburton.com"
+          },
+          "end_date": "2014-11",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": ["midland, texas, united states"],
+          "primary_score": 0.0,
+          "start_date": "2012-11",
+          "summary": "Frac and coil mechanic, shop and field",
+          "title": {
+            "levels": [],
+            "name": "mechanic",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": "facebook.com/rushtruckcenters",
+            "founded": 1965,
+            "id": "rush-enterprises-inc",
+            "industry": "transportation/trucking/railroad",
+            "linkedin_id": "398606",
+            "linkedin_url": "linkedin.com/company/rush-enterprises-inc",
+            "location": {
+              "address_line_2": null,
+              "continent": "north america",
+              "country": "united states",
+              "geo": "29.70,-98.12",
+              "locality": "new braunfels",
+              "metro": "san antonio, texas",
+              "name": "new braunfels, texas, united states",
+              "postal_code": "78130",
+              "region": "texas",
+              "street_address": "555 south i 35"
+            },
+            "name": "jobtarget demo",
+            "size": "5001-10000",
+            "twitter_url": "twitter.com/rushtruckcenter",
+            "website": "rushenterprises.com"
+          },
+          "end_date": "2010-11",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": [],
+          "primary_score": 0.0,
+          "start_date": "2010-06",
+          "summary": "contract mechanic, frac equipment, road gear or equipment",
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": null,
+            "founded": 2013,
+            "id": "cretic-energy-services",
+            "industry": "oil & energy",
+            "linkedin_id": "5273409",
+            "linkedin_url": "linkedin.com/company/cretic-energy-services",
+            "location": {
+              "address_line_2": "suite 102",
+              "continent": "north america",
+              "country": "united states",
+              "geo": "30.38,-95.69",
+              "locality": "montgomery",
+              "metro": "houston, texas",
+              "name": "montgomery, texas, united states",
+              "postal_code": "77356",
+              "region": "texas",
+              "street_address": "18001 highway 105 west"
+            },
+            "name": "jobtarget demo",
+            "size": "51-200",
+            "twitter_url": null,
+            "website": "cretic.net"
+          },
+          "end_date": null,
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": true,
+          "location_names": ["midland, texas, united states"],
+          "primary_score": 1.0,
+          "start_date": "2018-09",
+          "summary": null,
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": "facebook.com/weatherfordcorp",
+            "founded": 1987,
+            "id": "weatherford",
+            "industry": "oil & energy",
+            "linkedin_id": "166897",
+            "linkedin_url": "linkedin.com/company/weatherford",
+            "location": {
+              "address_line_2": null,
+              "continent": "europe",
+              "country": "ireland",
+              "geo": "53.33,-6.24",
+              "locality": "dublin",
+              "metro": null,
+              "name": "dublin, dublin, ireland",
+              "postal_code": null,
+              "region": "dublin",
+              "street_address": null
+            },
+            "name": "jobtarget demo",
+            "size": "10001+",
+            "twitter_url": "twitter.com/weatherfordcorp",
+            "website": "weatherford.com"
+          },
+          "end_date": "2012-10",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": ["houston, texas, united states"],
+          "primary_score": 0.0,
+          "start_date": "2011-02",
+          "summary": "Weatherford is one of the largest multinational oilfield service companies providing innovative solutions, technology and services to the oil and gas industry. The Company operates in over 100 countries and has a network of approximately 1,100 locations, including manufacturing, service, research and development, and training facilities.",
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        }
+      ],
+      "labels": {
+        "easy_apply_flag": null,
+        "easy_apply_score": 0,
+        "emails": ["j.gunn@jobtarget.com"],
+        "experience_years": 12.0,
+        "last_updated": null,
+        "salary": "n/a",
+        "unlock_status": null
+      },
+      "location": "longview, texas",
+      "name": { "first_name": "Test Jessy", "last_name": "Full" },
+      "outreach": true,
+      "skills": ["automotive", "diesel", "diesel engine", "diesel generators", "oilfield", "hydraulic fracturing", "coil", "mechanics"],
+      "source": {
+        "resume_content": "\n\n{{DOCUMENT_DATESTAMP}} 2022-02-22 {{END_DOCUMENT_DATESTAMP}}\n\n#################\n\n\n########, ## ###-###-####, ##############################################, ##################\n\nSUMMARY ,\nA compassionate, dedicated and patient-focused Licensed Practical Nurse of 3 plus years, with a strong background of over 20 years health care, in both acute and sub-acute care settings, providing quality care to patients. Excellent communication and interpersonal skills. Performs well in a challenging environment, A team player that can work independently. Brings a positive attitude to the workplace environment.\n\n\nSKILLS ,\n*    Infection control certificate\n*    BLS Certificate\n*    Measure and record vital signs\n*    Tube feedings\n*    Medication administration and Charting\n*    Give injections of medication and immunizations as per physician's orders\n*    Utilize sc###ers to minimize medication administration errors\n*    Tracheostomy care\n    *    Perform EKG\n    *    Computer Literate\n    *    Ventilator management\n    *    Wound care\n    *    Maintain a safe, clean and healthy environment\n    *    works together with patients throughout their treatment process.\n    *    The ability to multi-task and operate in a dynamic environment\n\n\nEDUCATION AND TRAINING\n\n05/2020                   Washington University of Health and science - 2nd yr medical student.\n\n                          Borough of ######### Community College of The City University of New York - New York, ##\n\n\n\n3/2013 - 06/2018          Licensed Practical nurse (LPN)\n                          Merit Technical Institute - New Jersey\n\n\n\nLPN Clinicals\nVA Hospital - East Orange, New Jersey, USA\n\n\n\nPatient Care Technician\nNew York Medical Career Institute - New York\n\nNursing Assistant\nBulkan's Educational Training - New York\n\nGED\nKingsborough College - ########, ##\n\nSocial Work\nUniversity of The West Indies - Trinidad\n\nEXPERIENCE\n\nLPN\n\n01/2022 - Present         Coler Hospital med surg - Roosevelt Island ## (travel Nurse)\n\n01/2019 - 01/2022         Helping U Home Care - #########, ##\n\n03/2019 - 06/2019         Bronx Lebanon adult ambulatory clinic - Bronx ##\n                          (Agency staff)\n\n10/2018 - 10/2019         Greater New York Nursing service - ######### ##\n                          skilled nursing care\n\n\n\n\n\n10/2017- 11/2018          Patient Care Support (Tech)\n                          New York Presbyterian Hospital Columbia - New York, ##\n                              *    Performing EKGs, Phlebotomy\n                              *    Patient assistance with feeding, ADLs, Patient family assistance\n                              *    Assisting with, Tracheostomy, Vents, post-surgical and Wound Vac patients\n\n\n\nO2/2013 - 11/2016         Patient Care Associate / Nursing Assistant\n                          Metropolitan Hospital HHC (agency Staff) - #########, ##\n\n\n\nPatient Care Technician / Nurse's Aide\nKingsbrook Jewish Hospital - ########, ##\n\nCertified Nursing Assistant\nBorough Park Nursing Home - ########, ##\n\n\n\n\n\nACCOMPLISHMENT    BLS CERTIFICATE\n\n                       LPN DIPLOMA\n\n\nVOLUNTEER        Greater New York Red cross, fire response team\n\n",
+        "resume_keywords": "Practical Nurse of 3 plus years, with a strong … Practical nurse (LPN) Merit Technical Institute - New … ## (travel Nurse)  01/2019 - 01/2022 Helping U Home … ",
+        "resume_summary": "A compassionate, dedicated and patient-focused Licensed Practical Nurse of 3 plus years, with a strong background of over 20 years health care, in both acute and sub-acute care settings, providing quality care to patients. Excellent communication and interpersonal skills. Performs well in a challenging environment, A team player that can work independently. Brings a positive attitude to the workplace environment."
+      },
+      "type": "free_pdl",
+      "integrationImageLink": "/Web/oc/content/images/globe-icon.svg",
+      "saved": true,
+      "notes": "",
+      "unlocked": false
+    },
+    {
+      "current_job_title": "jobtarget demo",
+      "education": [
+        {
+          "degrees": ["jobtarget demo"],
+          "end_date": "2007",
+          "end_date_score": 4.5399929762484852e-6,
+          "gpa": null,
+          "majors": [],
+          "minors": [],
+          "school": {
+            "domain": "uti.edu",
+            "facebook_url": null,
+            "id": "-LBGHxPvW3fVlvtPUm37AA_0",
+            "linkedin_id": "32672",
+            "linkedin_url": "linkedin.com/school/universal-technical-institute",
+            "location": {
+              "continent": "north america",
+              "country": "united states",
+              "locality": "phoenix",
+              "name": "phoenix, arizona, united states",
+              "region": "arizona"
+            },
+            "name": "jobtarget demo",
+            "twitter_url": null,
+            "type": "post-secondary institution",
+            "website": "uti.edu"
+          },
+          "start_date": "2006",
+          "summary": null
+        }
+      ],
+      "gender": "male",
+      "hidden": true,
+      "id": "pdl_test_1003",
+      "job": [
+        {
+          "company": {
+            "facebook_url": "facebook.com/halliburton",
+            "founded": 1919,
+            "id": "halliburton",
+            "industry": "oil & energy",
+            "linkedin_id": "2217",
+            "linkedin_url": "linkedin.com/company/halliburton",
+            "location": {
+              "address_line_2": null,
+              "continent": "north america",
+              "country": "united states",
+              "geo": "29.76,-95.36",
+              "locality": "houston",
+              "metro": "houston, texas",
+              "name": "houston, texas, united states",
+              "postal_code": "77032",
+              "region": "texas",
+              "street_address": "3000 north sam houston parkway east"
+            },
+            "name": "jobtarget demo",
+            "size": "10001+",
+            "twitter_url": "twitter.com/halliburton",
+            "website": "halliburton.com"
+          },
+          "end_date": "2014-11",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": ["midland, texas, united states"],
+          "primary_score": 0,
+          "start_date": "2012-11",
+          "summary": "Frac and coil mechanic, shop and field",
+          "title": {
+            "levels": [],
+            "name": "mechanic",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": "facebook.com/rushtruckcenters",
+            "founded": 1965,
+            "id": "rush-enterprises-inc",
+            "industry": "transportation/trucking/railroad",
+            "linkedin_id": "398606",
+            "linkedin_url": "linkedin.com/company/rush-enterprises-inc",
+            "location": {
+              "address_line_2": null,
+              "continent": "north america",
+              "country": "united states",
+              "geo": "29.70,-98.12",
+              "locality": "new braunfels",
+              "metro": "san antonio, texas",
+              "name": "new braunfels, texas, united states",
+              "postal_code": "78130",
+              "region": "texas",
+              "street_address": "555 south i 35"
+            },
+            "name": "jobtarget demo",
+            "size": "5001-10000",
+            "twitter_url": "twitter.com/rushtruckcenter",
+            "website": "rushenterprises.com"
+          },
+          "end_date": "2010-11",
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": false,
+          "location_names": [],
+          "primary_score": 0,
+          "start_date": "2010-06",
+          "summary": "contract mechanic, frac equipment, road gear or equipment",
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        },
+        {
+          "company": {
+            "facebook_url": null,
+            "founded": 2013,
+            "id": "cretic-energy-services",
+            "industry": "oil & energy",
+            "linkedin_id": "5273409",
+            "linkedin_url": "linkedin.com/company/cretic-energy-services",
+            "location": {
+              "address_line_2": "suite 102",
+              "continent": "north america",
+              "country": "united states",
+              "geo": "30.38,-95.69",
+              "locality": "montgomery",
+              "metro": "houston, texas",
+              "name": "montgomery, texas, united states",
+              "postal_code": "77356",
+              "region": "texas",
+              "street_address": "18001 highway 105 west"
+            },
+            "name": "jobtarget demo",
+            "size": "51-200",
+            "twitter_url": null,
+            "website": "cretic.net"
+          },
+          "end_date": null,
+          "end_date_score": 4.5399929762484852e-6,
+          "is_primary": true,
+          "location_names": ["midland, texas, united states"],
+          "primary_score": 1,
+          "start_date": "2018-09",
+          "summary": null,
+          "title": {
+            "levels": [],
+            "name": "jobtarget demo",
+            "role": "trades",
+            "sub_role": null
+          }
+        }
+      ],
+      "labels": {
+        "easy_apply_flag": null,
+        "easy_apply_score": 0,
+        "emails": ["m.orendain@jobtarget.com"],
+        "experience_years": 12,
+        "last_updated": null,
+        "phone": [],
+        "salary": "n/a",
+        "unlock_status": null
+      },
+      "location": "longview, texas",
+      "name": { "first_name": "Test Marvin", "last_name": "Full" },
+      "score": {
+        "active_score": 0,
+        "contact_score": 0.13999999999999999,
+        "date_score": 4.5399929762484852e-6,
+        "final_score": 1.5240045399929762,
+        "job_title_score": 1,
+        "tfidf_score": 0.384
+      },
+      "skills": ["automotive", "diesel", "diesel engine", "diesel generators", "oilfield", "hydraulic fracturing", "coil", "mechanics"],
+      "source": {
+        "birth_date": "n/a",
+        "birth_year": "n/a",
+        "certifications": [],
+        "countries": ["united states"],
+        "education": [
+          {
+            "degrees": ["jobtarget demo"],
+            "end_date": "2007",
+            "end_date_score": 4.5399929762484852e-6,
+            "gpa": null,
+            "majors": [],
+            "minors": [],
+            "school": {
+              "domain": "uti.edu",
+              "facebook_url": null,
+              "id": "-LBGHxPvW3fVlvtPUm37AA_0",
+              "linkedin_id": "32672",
+              "linkedin_url": "linkedin.com/school/universal-technical-institute",
+              "location": {
+                "continent": "north america",
+                "country": "united states",
+                "locality": "phoenix",
+                "name": "phoenix, arizona, united states",
+                "region": "arizona"
+              },
+              "name": "jobtarget demo",
+              "twitter_url": null,
+              "type": "post-secondary institution",
+              "website": "uti.edu"
+            },
+            "start_date": "2006",
+            "summary": null
+          }
+        ],
+        "emails": [{ "address": "m.orendain@jobtarget.com", "type": "professional" }],
+        "experience": [
+          {
+            "company": {
+              "facebook_url": "facebook.com/cjenergy",
+              "founded": 1997,
+              "id": "c&j-energy-services-inc-",
+              "industry": "oil & energy",
+              "linkedin_id": "2208023",
+              "linkedin_url": "linkedin.com/company/c&j-energy-services-inc-",
+              "location": {
+                "address_line_2": null,
+                "continent": "north america",
+                "country": "united states",
+                "geo": "29.76,-95.36",
+                "locality": "houston",
+                "metro": "houston, texas",
+                "name": "houston, texas, united states",
+                "postal_code": "77042",
+                "region": "texas",
+                "street_address": "3990 rogerdale"
+              },
+              "name": "jobtarget demo",
+              "size": "5001-10000",
+              "twitter_url": "twitter.com/cjenergy",
+              "website": "cjenergy.com"
+            },
+            "end_date": "2018-09",
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": false,
+            "location_names": ["longview, texas, united states"],
+            "primary_score": 0,
+            "start_date": "2017-05",
+            "summary": null,
+            "title": {
+              "levels": [],
+              "name": "jobtarget demo",
+              "role": "trades",
+              "sub_role": null
+            }
+          },
+          {
+            "company": {
+              "facebook_url": null,
+              "founded": 1992,
+              "id": "basic-energy-services",
+              "industry": "oil & energy",
+              "linkedin_id": "227883",
+              "linkedin_url": "linkedin.com/company/basic-energy-services",
+              "location": {
+                "address_line_2": null,
+                "continent": "north america",
+                "country": "united states",
+                "geo": null,
+                "locality": null,
+                "metro": null,
+                "name": "texas, united states",
+                "postal_code": "76102",
+                "region": "texas",
+                "street_address": null
+              },
+              "name": "jobtarget demo",
+              "size": "1001-5000",
+              "twitter_url": null,
+              "website": "basicenergyservices.com"
+            },
+            "end_date": "2017-05",
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": false,
+            "location_names": ["longview, texas, united states"],
+            "primary_score": 0,
+            "start_date": "2016-02",
+            "summary": "Truck and trailer mechanic, field workover mechanic",
+            "title": {
+              "levels": [],
+              "name": "jobtarget demo",
+              "role": "trades",
+              "sub_role": null
+            }
+          },
+          {
+            "company": {
+              "facebook_url": "facebook.com/mhckenworth",
+              "founded": 1975,
+              "id": "murphy-hoffman-company",
+              "industry": "transportation/trucking/railroad",
+              "linkedin_id": "92974",
+              "linkedin_url": "linkedin.com/company/murphy-hoffman-company",
+              "location": {
+                "address_line_2": null,
+                "continent": "north america",
+                "country": "united states",
+                "geo": "38.96,-94.61",
+                "locality": "leawood",
+                "metro": "kansas city, missouri",
+                "name": "leawood, kansas, united states",
+                "postal_code": "66211",
+                "region": "kansas",
+                "street_address": "11120 tomahawk creek parkway"
+              },
+              "name": "jobtarget demo",
+              "size": "1001-5000",
+              "twitter_url": "twitter.com/mhckenworth",
+              "website": "mhc.com"
+            },
+            "end_date": "2015-08",
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": false,
+            "location_names": ["longview, texas, united states"],
+            "primary_score": 0,
+            "start_date": "2014-12",
+            "summary": "Mobile service technician for on-road and off-road heavy trucks and equipment",
+            "title": {
+              "levels": [],
+              "name": "jobtarget demo",
+              "role": "trades",
+              "sub_role": null
+            }
+          },
+          {
+            "company": {
+              "facebook_url": null,
+              "founded": 2002,
+              "id": "fts-international",
+              "industry": "oil & energy",
+              "linkedin_id": "1046059",
+              "linkedin_url": "linkedin.com/company/fts-international",
+              "location": {
+                "address_line_2": "suite 2900",
+                "continent": "north america",
+                "country": "united states",
+                "geo": "32.72,-97.32",
+                "locality": "fort worth",
+                "metro": "dallas, texas",
+                "name": "fort worth, texas, united states",
+                "postal_code": "76102",
+                "region": "texas",
+                "street_address": "777 main street"
+              },
+              "name": "jobtarget demo",
+              "size": "1001-5000",
+              "twitter_url": "twitter.com/fts_intl",
+              "website": "ftsi.com"
+            },
+            "end_date": "2010-06",
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": false,
+            "location_names": [],
+            "primary_score": 0,
+            "start_date": "2010-02",
+            "summary": "p/m mechanic, light-duty repairs",
+            "title": {
+              "levels": [],
+              "name": "jobtarget demo",
+              "role": "trades",
+              "sub_role": null
+            }
+          },
+          {
+            "company": {
+              "facebook_url": "facebook.com/halliburton",
+              "founded": 1919,
+              "id": "halliburton",
+              "industry": "oil & energy",
+              "linkedin_id": "2217",
+              "linkedin_url": "linkedin.com/company/halliburton",
+              "location": {
+                "address_line_2": null,
+                "continent": "north america",
+                "country": "united states",
+                "geo": "29.76,-95.36",
+                "locality": "houston",
+                "metro": "houston, texas",
+                "name": "houston, texas, united states",
+                "postal_code": "77032",
+                "region": "texas",
+                "street_address": "3000 north sam houston parkway east"
+              },
+              "name": "jobtarget demo",
+              "size": "10001+",
+              "twitter_url": "twitter.com/halliburton",
+              "website": "halliburton.com"
+            },
+            "end_date": "2014-11",
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": false,
+            "location_names": ["midland, texas, united states"],
+            "primary_score": 0,
+            "start_date": "2012-11",
+            "summary": "Frac and coil mechanic, shop and field",
+            "title": {
+              "levels": [],
+              "name": "mechanic",
+              "role": "trades",
+              "sub_role": null
+            }
+          },
+          {
+            "company": {
+              "facebook_url": "facebook.com/rushtruckcenters",
+              "founded": 1965,
+              "id": "rush-enterprises-inc",
+              "industry": "transportation/trucking/railroad",
+              "linkedin_id": "398606",
+              "linkedin_url": "linkedin.com/company/rush-enterprises-inc",
+              "location": {
+                "address_line_2": null,
+                "continent": "north america",
+                "country": "united states",
+                "geo": "29.70,-98.12",
+                "locality": "new braunfels",
+                "metro": "san antonio, texas",
+                "name": "new braunfels, texas, united states",
+                "postal_code": "78130",
+                "region": "texas",
+                "street_address": "555 south i 35"
+              },
+              "name": "jobtarget demo",
+              "size": "5001-10000",
+              "twitter_url": "twitter.com/rushtruckcenter",
+              "website": "rushenterprises.com"
+            },
+            "end_date": "2010-11",
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": false,
+            "location_names": [],
+            "primary_score": 0,
+            "start_date": "2010-06",
+            "summary": "contract mechanic, frac equipment, road gear or equipment",
+            "title": {
+              "levels": [],
+              "name": "jobtarget demo",
+              "role": "trades",
+              "sub_role": null
+            }
+          },
+          {
+            "company": {
+              "facebook_url": null,
+              "founded": 2013,
+              "id": "cretic-energy-services",
+              "industry": "oil & energy",
+              "linkedin_id": "5273409",
+              "linkedin_url": "linkedin.com/company/cretic-energy-services",
+              "location": {
+                "address_line_2": "suite 102",
+                "continent": "north america",
+                "country": "united states",
+                "geo": "30.38,-95.69",
+                "locality": "montgomery",
+                "metro": "houston, texas",
+                "name": "montgomery, texas, united states",
+                "postal_code": "77356",
+                "region": "texas",
+                "street_address": "18001 highway 105 west"
+              },
+              "name": "jobtarget demo",
+              "size": "51-200",
+              "twitter_url": null,
+              "website": "cretic.net"
+            },
+            "end_date": null,
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": true,
+            "location_names": ["midland, texas, united states"],
+            "primary_score": 1,
+            "start_date": "2018-09",
+            "summary": null,
+            "title": {
+              "levels": [],
+              "name": "jobtarget demo",
+              "role": "trades",
+              "sub_role": null
+            }
+          },
+          {
+            "company": {
+              "facebook_url": "facebook.com/weatherfordcorp",
+              "founded": 1987,
+              "id": "weatherford",
+              "industry": "oil & energy",
+              "linkedin_id": "166897",
+              "linkedin_url": "linkedin.com/company/weatherford",
+              "location": {
+                "address_line_2": null,
+                "continent": "europe",
+                "country": "ireland",
+                "geo": "53.33,-6.24",
+                "locality": "dublin",
+                "metro": null,
+                "name": "dublin, dublin, ireland",
+                "postal_code": null,
+                "region": "dublin",
+                "street_address": null
+              },
+              "name": "jobtarget demo",
+              "size": "10001+",
+              "twitter_url": "twitter.com/weatherfordcorp",
+              "website": "weatherford.com"
+            },
+            "end_date": "2012-10",
+            "end_date_score": 4.5399929762484852e-6,
+            "is_primary": false,
+            "location_names": ["houston, texas, united states"],
+            "primary_score": 0,
+            "start_date": "2011-02",
+            "summary": "Weatherford is one of the largest multinational oilfield service companies providing innovative solutions, technology and services to the oil and gas industry. The Company operates in over 100 countries and has a network of approximately 1,100 locations, including manufacturing, service, research and development, and training facilities.",
+            "title": {
+              "levels": [],
+              "name": "jobtarget demo",
+              "role": "trades",
+              "sub_role": null
+            }
+          }
+        ],
+        "facebook_id": 100000400338704,
+        "facebook_url": "n/a",
+        "facebook_username": "n/a",
+        "first_name": "Test Marvin",
+        "flag": false,
+        "full_name": "Test Marvin Full",
+        "gender": "male",
+        "github_url": "n/a",
+        "github_username": "n/a",
+        "id": "test_1003",
+        "industry": "jobtarget demo",
+        "inferred_salary": "n/a",
+        "inferred_years_experience": 12,
+        "interests": [],
+        "job_company_facebook_url": "n/a",
+        "job_company_founded": 2013,
+        "job_company_id": "",
+        "job_company_industry": "jobtarget demo",
+        "job_company_linkedin_id": 5273409,
+        "job_company_linkedin_url": "linkedin.com/company/cretic-energy-services",
+        "job_company_location_address_line_2": "suite 102",
+        "job_company_location_continent": "north america",
+        "job_company_location_country": "united states",
+        "job_company_location_geo": "30.38,-95.69",
+        "job_company_location_locality": "montgomery",
+        "job_company_location_metro": "houston, texas",
+        "job_company_location_name": "montgomery, texas, united states",
+        "job_company_location_postal_code": "77356",
+        "job_company_location_region": "texas",
+        "job_company_location_street_address": "18001 highway 105 west",
+        "job_company_name": "",
+        "job_company_size": "51-200",
+        "job_company_twitter_url": "n/a",
+        "job_company_website": "",
+        "job_last_updated": "2022-02-08",
+        "job_start_date": "2018-09",
+        "job_summary": "n/a",
+        "job_title": "jobtarget demo",
+        "job_title_levels": [],
+        "job_title_role": "jobtarget demo",
+        "job_title_sub_role": "n/a",
+        "languages": [],
+        "last_initial": "F",
+        "last_name": "Full",
+        "linkedin_connections": 22,
+        "linkedin_id": 193626252,
+        "linkedin_url": "linkedin.com/in/john-morris-290a1854",
+        "linkedin_username": "john-morris-290a1854",
+        "location_address_line_2": "n/a",
+        "location_continent": "north america",
+        "location_country": "united states",
+        "location_geo": "32.50,-94.74",
+        "location_last_updated": "2022-03-08",
+        "location_locality": "longview",
+        "location_metro": "longview, texas",
+        "location_name": "longview, texas, united states",
+        "location_names": ["longview, texas, united states"],
+        "location_postal_code": "n/a",
+        "location_region": "texas",
+        "location_street_address": "n/a",
+        "middle_initial": "n/a",
+        "middle_name": "n/a",
+        "mobile_phone": "n/a",
+        "myloc": { "lat": 32.5, "lon": -94.74 },
+        "operation_id": "a62db445e2c17f872b1e9c7ab18b0a9031eb4224152f840af6d165716b97fa11",
+        "personal_emails": [],
+        "phone_numbers": [],
+        "profiles": [
+          {
+            "id": "193626252",
+            "network": "linkedin",
+            "url": "linkedin.com/in/john-morris-290a1854",
+            "username": "john-morris-290a1854"
+          },
+          {
+            "id": "100000400338704",
+            "network": "facebook",
+            "url": "facebook.com/100000400338704",
+            "username": null
+          }
+        ],
+        "regions": ["texas, united states"],
+        "skills": ["automotive", "diesel", "diesel engine", "diesel generators", "oilfield", "hydraulic fracturing", "coil", "mechanics"],
+        "street_addresses": [],
+        "summary": "Coil tubing, Frac, and diesel mechanic",
+        "twitter_url": "n/a",
+        "twitter_username": "n/a",
+        "version_status": {
+          "contains": [],
+          "current_version": "18.0",
+          "previous_version": "17.0",
+          "status": "updated"
+        },
+        "work_email": "n/a"
+      },
+      "type": "free_pdl",
+      "integrationImageLink": "/Web/oc/content/images/globe-icon.svg",
+      "saved": false,
+      "notes": "",
+      "unlocked": true
+    },
+    {
+      "education": [{ "degrees": ["none engineering", "bse", "high school", "None"] }],
+      "id": "cab_c7c2c924-d7c1-3d8e-b9ed-cbdb22ebe2c3",
+      "job": [
+        {
+          "title": {
+            "levels": [
+              "Contract Manager",
+              "General Superintendent Instrumentation",
+              "Regional Highway Design Practice Center Leader",
+              "Principal / Regional Transportation Design Practice Center Leader",
+              "General Suptpiping / Instrumentaion",
+              "General Supt.Piping / Instrumentaion",
+              "Instrumentation Engineer",
+              "Senior Engineer / Project Manager",
+              "Senior Engineer And Project Manager",
+              "Freelance Project Manager And Audio Engineer",
+              "Regional Highway Design Practice Center Leader",
+              "Director",
+              "Project Manager And Client Service Manager",
+              "General Supt.piping / Instrumentaion",
+              "Principal / Regional Transportation Design Practice Center Leader",
+              "General Superintendent Instrumentation",
+              "General Superintendent Instrumentation/ Piping",
+              "Senior Highway Engineer",
+              "Pipefitter",
+              "Civil Engineer",
+              "Field Engineer/Instrumentation/Civil (Iron workers)",
+              "Civil Engineer",
+              "Field Engineer Mechanical",
+              "Project Manager",
+              "Project Manager"
+            ],
+            "name": "Contract Manager"
+          }
+        }
+      ],
+      "labels": {
+        "candidate_id": "c7c2c924-d7c1-3d8e-b9ed-cbdb22ebe2c3",
+        "contact_score": null,
+        "date_score": null,
+        "experience_years": 32,
+        "final_score": null,
+        "last_updated": "2022-07-17T18:22:15.55Z",
+        "salary": null,
+        "tdfidf": null,
+        "unlock_status": null
+      },
+      "location": "Pensacola, Florida",
+      "name": { "first_name": "Paul", "last_name": "Wells" },
+      "outreach": true,
+      "profiles": {
+        "Edge": [
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/04fa40da-d99f-3627-847a-577d6bef45ea"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/08d12c08-c842-3927-b7ef-e5050f752e34"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/0b821f86-0d1a-35b0-a685-4bd234ae2c71"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/103493d3-9456-3c7c-ac23-157cca6dd65e"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/1095b0cd-0b9b-3cab-84ed-883408c1a41b"
+          }
+        ],
+        "LinkedInID": [
+          {
+            "Network": "LinkedInID",
+            "URL": "https://www.google.com/search?q=site%3Alinkedin.com%20AND%20%22Paul%20Wells%22%20AND%20Paul%20OR%20Wells%20OR%20Plbwlls%20OR%20Pwells%20OR%20Pensacola%20OR%20Florida%20OR%20%22United%20States%22%20OR%20Denver%20OR%20Colorado%20OR%20%22Contract%20Manager%22%20OR%20%22URS%20DOE%22%20OR%20%22General%20Superintendent%20Instrumentation%22%20OR%20%22URS%20Bechtel%20DOE%22%20OR%20%22Regional%20Highway%20Design%20Practice%20Center%20Leader%22%20OR%20%22Seh%20Inc%22"
+          },
+          {
+            "Network": "LinkedInID",
+            "URL": "https://www.google.com/search?q=site%3Alinkedin.com%20AND%20%22Paul%20Wells%22%20AND%20Paul%20OR%20Wells%20OR%20Plbwlls%20OR%20Pwells%20OR%20Pensacola%20OR%20Florida%20OR%20%22United%20States%22%20OR%20Denver%20OR%20Colorado%20OR%20%22Contract%20Manager%22%20OR%20%22URS%20DOE%22%20OR%20%22General%20Superintendent%20Instrumentation%22%20OR%20%22URS%20Bechtel%20DOE%22%20OR%20%22Regional%20Highway%20Design%20Practice%20Center%20Leader%22%20OR%20%22Seh%20Inc%22"
+          }
+        ],
+        "LinkedInName": [
+          {
+            "Network": "LinkedInName",
+            "URL": "https://www.google.com/search?q=site%3Alinkedin.com%20AND%20%22Paul%20Wells%22%20AND%20Paul%20OR%20Wells%20OR%20Plbwlls%20OR%20Pwells%20OR%20Pensacola%20OR%20Florida%20OR%20%22United%20States%22%20OR%20Denver%20OR%20Colorado%20OR%20%22Contract%20Manager%22%20OR%20%22URS%20DOE%22%20OR%20%22General%20Superintendent%20Instrumentation%22%20OR%20%22URS%20Bechtel%20DOE%22%20OR%20%22Regional%20Highway%20Design%20Practice%20Center%20Leader%22%20OR%20%22Seh%20Inc%22"
+          },
+          {
+            "Network": "LinkedInName",
+            "URL": "https://www.google.com/search?q=site%3Alinkedin.com%20AND%20%22Paul%20Wells%22%20AND%20Paul%20OR%20Wells%20OR%20Plbwlls%20OR%20Pwells%20OR%20Pensacola%20OR%20Florida%20OR%20%22United%20States%22%20OR%20Denver%20OR%20Colorado%20OR%20%22Contract%20Manager%22%20OR%20%22URS%20DOE%22%20OR%20%22General%20Superintendent%20Instrumentation%22%20OR%20%22URS%20Bechtel%20DOE%22%20OR%20%22Regional%20Highway%20Design%20Practice%20Center%20Leader%22%20OR%20%22Seh%20Inc%22"
+          }
+        ],
+        "ResumeDBDID": [
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=r2w5gn6mzrpzjz781c2"
+          },
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=r2n7966zb4vp35ntcsy"
+          },
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=rcm4q5790ztltgvqwmy"
+          },
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=r305r96fcy3r97q6gdp"
+          },
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=r2p6m86jd2sg10q9ldg"
+          }
+        ],
+        "ResumeDBWordDocDID": [
+          {
+            "Network": "ResumeDBWordDocDID",
+            "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rw2n138711ffmttb6hb7&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=r2n7966zb4vp35ntcsy&view=all"
+          },
+          {
+            "Network": "ResumeDBWordDocDID",
+            "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rw2w46n78dr10w8mj7sp&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=r2w5gn6mzrpzjz781c2&view=all"
+          },
+          {
+            "Network": "ResumeDBWordDocDID",
+            "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rw306gh61mnnvrf5b0s3&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=r305r96fcy3r97q6gdp&view=all"
+          }
+        ]
+      },
+      "skills": [
+        "management",
+        "leadership",
+        "training",
+        "project management",
+        "operations",
+        "scheduling",
+        "engineering",
+        "scheduling (project management)",
+        "reports",
+        "negotiation",
+        "construction",
+        "operations management",
+        "project planning",
+        "cleaning",
+        "microsoft project",
+        "contract negotiation",
+        "scheduling (computing)",
+        "autocad",
+        "value (economy)",
+        "procurement"
+      ],
+      "integrationImageLink": "https://logo.clearbit.com/careerbuilder.com",
+      "saved": true,
+      "notes": "",
+      "unlocked": false
+    },
+    {
+      "education": [{ "degrees": ["CE31", "High School"] }],
+      "id": "cab_f5422140-c682-3d50-a299-daf5c298687d",
+      "job": [
+        {
+          "title": {
+            "levels": ["Cardiology clinic nurse"],
+            "name": "Cardiology clinic nurse"
+          }
+        }
+      ],
+      "labels": {
+        "candidate_id": "f5422140-c682-3d50-a299-daf5c298687d",
+        "contact_score": null,
+        "date_score": null,
+        "experience_years": 4,
+        "final_score": null,
+        "last_updated": "2022-07-16T19:29:37Z",
+        "salary": null,
+        "tdfidf": null,
+        "unlock_status": null
+      },
+      "location": "Kearney, Nebraska",
+      "name": { "first_name": "Mary", "last_name": "Haag" },
+      "outreach": true,
+      "profiles": {
+        "Edge": [
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/f5422140-c682-3d50-a299-daf5c298687d"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/e20d3976-8b78-335c-b536-e7ce3a3809e9"
+          }
+        ]
+      },
+      "skills": ["cardiology", "endocrinology", "na"],
+      "integrationImageLink": "https://logo.clearbit.com/careerbuilder.com",
+      "saved": true,
+      "notes": "",
+      "unlocked": false
+    },
+    {
+      "education": [
+        {
+          "degrees": ["None", "None", "None", "None", "Master's Degree", "Bachelor's Degree", "None", "None"]
+        }
+      ],
+      "id": "cab_78799248-052f-3c49-8344-ed94ead7f6f1",
+      "job": [
+        {
+          "title": {
+            "levels": ["Registered Nurse, Intensive Care Units"],
+            "name": "Registered Nurse, Intensive Care Units"
+          }
+        }
+      ],
+      "labels": {
+        "candidate_id": "78799248-052f-3c49-8344-ed94ead7f6f1",
+        "contact_score": null,
+        "date_score": null,
+        "experience_years": 3,
+        "final_score": null,
+        "last_updated": "2022-06-06T10:49:47.72Z",
+        "salary": null,
+        "tdfidf": null,
+        "unlock_status": null
+      },
+      "location": "Knoxville, Tennessee",
+      "name": { "first_name": "Lancia", "last_name": "Carter" },
+      "outreach": true,
+      "profiles": {
+        "Edge": [
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/78799248-052f-3c49-8344-ed94ead7f6f1"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/09f9c7d5-adb6-3873-87fd-f90aaa5ea065"
+          }
+        ]
+      },
+      "skills": ["AANP", "electrocardiography", "emergency department", "geriatrics", "gynaecology", "health assessment", "intensive care unit", "intensive-care medicine", "na"],
+      "integrationImageLink": "https://logo.clearbit.com/careerbuilder.com",
+      "saved": false,
+      "notes": "",
+      "unlocked": true
+    },
+    {
+      "education": [
+        {
+          "degrees": ["unclassified bachelor", "unclassified bachelor", "associate", "Bachelor's Degree"]
+        }
+      ],
+      "id": "cab_034c1421-5579-3b5d-83bb-61fed271ee34",
+      "job": [
+        {
+          "title": {
+            "levels": [
+              "Registered Nurse/Utilization Review",
+              "Remote Analyst/Registered Nurse/Legal Nurse Consultant",
+              "Nursing Supervisor",
+              "Remote Analyst/Registered Nurse/Legal Nurse Consultant",
+              "Registered Nurse",
+              "Registered Nurse",
+              "Registered Nurse/Utilization Review",
+              "Registered Nurse/Utilization Review",
+              "Radiology Nurse",
+              "Registered Nurse",
+              "Registered Nurse",
+              "Director Of Critical Care",
+              "Registered Nurse"
+            ],
+            "name": "Registered Nurse/Utilization Review"
+          }
+        }
+      ],
+      "labels": {
+        "candidate_id": "034c1421-5579-3b5d-83bb-61fed271ee34",
+        "contact_score": null,
+        "date_score": null,
+        "experience_years": 28,
+        "final_score": null,
+        "last_updated": "2022-06-04T14:34:04Z",
+        "salary": null,
+        "tdfidf": null,
+        "unlock_status": null
+      },
+      "location": "Tebbetts, Missouri",
+      "name": { "first_name": "Alan", "last_name": "Green" },
+      "outreach": true,
+      "profiles": {
+        "Edge": [
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/034c1421-5579-3b5d-83bb-61fed271ee34"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/2775ad08-465a-38eb-8335-03a93ba9e1ba"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/2ab37efd-c207-3088-b200-bdeb950aadae"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/3653aa70-b037-3748-9bac-7470aec64be0"
+          },
+          {
+            "Network": "Edge",
+            "URL": "http://edge.careerbuilder.com/profile/45b79b64-e2ce-31db-b63c-59bf54eb8432"
+          }
+        ],
+        "ResumeDBDID": [
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=r1b0kj66gmpxj7qll6f"
+          },
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=rhb33g6trqw722pqk2c"
+          },
+          {
+            "Network": "ResumeDBDID",
+            "URL": "http://employer.careerbuilder.com/JobPoster/Resumes/ResumeDetails.aspx?Resume_DID=rh36vk6328cwgdyx82h"
+          }
+        ],
+        "ResumeDBWordDocDID": [
+          {
+            "Network": "ResumeDBWordDocDID",
+            "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rw1b0076828bnlqstrn0&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=r1b0kj66gmpxj7qll6f&view=all"
+          },
+          {
+            "Network": "ResumeDBWordDocDID",
+            "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rwhb2dd6cqjnj6jsrgsn&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=rhb33g6trqw722pqk2c&view=all"
+          },
+          {
+            "Network": "ResumeDBWordDocDID",
+            "URL": "http://www.careerbuilder.com/jobposter/resumes/resumeworddocsave.aspx?pg=1&MXResumeWordDoc_DID=rwp83w76qw4w6r64078h&MXAuditSearchCriteria_CriteriaDID=&Resume_DID=rh36vk6328cwgdyx82h&view=all"
+          }
+        ]
+      },
+      "skills": [
+        "nursing",
+        "registered nurse certified",
+        "critical care",
+        "radiology",
+        "hospitals",
+        "utilization management",
+        "rehabilitations",
+        "trauma",
+        "intensive care unit",
+        "pain management",
+        "emergency departments",
+        "intensive care",
+        "critical care registered nurse (ccrn)",
+        "emergency handling",
+        "interventional radiology",
+        "procedural sedation and analgesia",
+        "medicaid",
+        "sedation",
+        "scheduling",
+        "scheduling (computing)"
+      ],
+      "integrationImageLink": "https://logo.clearbit.com/careerbuilder.com",
+      "saved": true,
+      "notes": "",
+      "unlocked": false
+    },
+    {
+      "education": [
+        {
+          "degrees": ["Bachelor of Sciences Mechanical Engineering"],
+          "end_date": "",
+          "school": {
+            "location": "Milwaukee, US",
+            "name": "University of Wisconsin"
+          },
+          "start_date": ""
+        }
+      ],
+      "id": "ind_48f45ff009c0caf5",
+      "job": [
+        {
+          "title": {
+            "levels": ["", "Aerospace Tooling Engineer", "R&D Mechanical Engineer – Size Reduction"],
+            "name": "Aerospace Tooling Engineer"
+          }
+        }
+      ],
+      "labels": {
+        "candidate_id": "",
+        "contact_score": "",
+        "date_score": "",
+        "experience_years": "",
+        "final_score": "",
+        "last_updated": "2022-05-03T04:35:46.014Z",
+        "salary": "",
+        "tdfidf": "",
+        "unlock_status": ""
+      },
+      "location": "Seattle, US",
+      "name": { "first_name": "confidential" },
+      "skills": [],
+      "integrationImageLink": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/a5d3ceab8ffc0d5e24297320fb0c79bd",
+      "saved": true,
+      "notes": "",
+      "unlocked": false
+    },
+    {
+      "id": "pdl_fQOWNVaWjsHlKvwusEMNDw_0000",
+      "name": { "first_name": "yane", "last_name": "febles" },
+      "skills": [],
+      "education": [],
+      "location": "miami, florida",
+      "gender": "None",
+      "job": [
+        {
+          "company": {
+            "name": "lakes engineering, inc.",
+            "size": "1-10",
+            "id": "lakes-engineering-inc.",
+            "founded": "None",
+            "industry": null,
+            "location": {
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "street_address": "4870 southwest 72nd avenue"
+            },
+            "website": null,
+            "profiles": ["linkedin.com/company/lakes-engineering-inc.", "linkedin.com/company/15562999"]
+          },
+          "end_date": null,
+          "start_date": "2009-08",
+          "title": { "name": "eit", "functions": [], "levels": [] },
+          "type": null,
+          "is_primary": false,
+          "locations": [
+            {
+              "name": "miami, florida, united states",
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": false
+        },
+        {
+          "company": {
+            "name": "t.y. lin international",
+            "size": "1001-5000",
+            "id": "t-y--lin-international",
+            "founded": "1954",
+            "industry": "civil engineering",
+            "location": {
+              "locality": "san francisco",
+              "region": "california",
+              "country": "united states",
+              "street_address": "345 california street"
+            },
+            "website": "tylin.com",
+            "profiles": ["linkedin.com/company/t-y--lin-international", "facebook.com/tylininternationalgroup", "twitter.com/tyli_group", "linkedin.com/company/27343"]
+          },
+          "end_date": "2009-08",
+          "start_date": "2005-01",
+          "title": {
+            "name": "civil engineer",
+            "functions": ["engineering"],
+            "levels": []
+          },
+          "type": null,
+          "is_primary": false,
+          "locations": [
+            {
+              "name": "miami, florida, united states",
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": false
+        },
+        {
+          "company": {
+            "name": "lakes engineering, inc.",
+            "size": "1-10",
+            "id": "lakes-engineering-inc.",
+            "founded": "None",
+            "industry": null,
+            "location": {
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "street_address": "4870 southwest 72nd avenue"
+            },
+            "website": null,
+            "profiles": ["linkedin.com/company/lakes-engineering-inc.", "linkedin.com/company/15562999"]
+          },
+          "end_date": null,
+          "start_date": "2009-08",
+          "title": {
+            "name": "civil engineer",
+            "functions": ["engineering"],
+            "levels": []
+          },
+          "type": null,
+          "is_primary": true,
+          "locations": [
+            {
+              "name": "miami, florida, united states",
+              "locality": "miami",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": ["BRIDGES (15 years professional experience USA) Civil Engineering (1995 - Present)"],
+          "last_updated": "2021-06-01",
+          "most_recent": true
+        }
+      ],
+      "labels": {
+        "last_updated": "2021-06-01",
+        "experience_years": "16.0",
+        "salary": "55,000-70,000",
+        "unlock_status": null,
+        "tdfidf": 0.345,
+        "date_score": 4.5399929762484852e-6,
+        "contact_score": 0.13999999999999999,
+        "final_score": 1.485,
+        "candidate_id": null,
+        "current_job_title_point": 1,
+        "emails": ["yanefebles@yahoo.com"],
+        "blocked_connection": 0,
+        "accepted_connection": 0
+      },
+      "type": "free",
+      "integrationImageLink": "/Web/oc/content/images/globe-icon.svg",
+      "saved": true,
+      "notes": "Added from Ekam",
+      "unlocked": false
+    },
+    {
+      "id": "pdl_-P6LWSKXXbUItad3SlL2-w_0000",
+      "name": { "first_name": "silvana", "last_name": "lavado" },
+      "skills": [],
+      "education": [
+        {
+          "school": {
+            "name": "university of maryland",
+            "type": "post-secondary institution",
+            "id": null,
+            "location": null,
+            "linkedin_id": null,
+            "website": null,
+            "profiles": []
+          },
+          "degrees": [],
+          "start_date": null,
+          "end_date": null,
+          "majors": ["engineering", "project management"],
+          "minors": [],
+          "gpa": null,
+          "summaries": [],
+          "locations": []
+        }
+      ],
+      "location": "miami beach, florida",
+      "gender": "None",
+      "job": [
+        {
+          "company": {
+            "name": "bechtel corporation",
+            "size": "10001+",
+            "id": "bechtel-corporation",
+            "founded": "1898",
+            "industry": "construction",
+            "location": {
+              "locality": "san francisco",
+              "region": "california",
+              "country": "united states",
+              "street_address": "50 beale street"
+            },
+            "website": "bechtel.com",
+            "profiles": ["linkedin.com/company/bechtel-corporation", "facebook.com/bechtelcorp", "twitter.com/bechtel", "linkedin.com/company/3304"]
+          },
+          "start_date": "2015-11-14",
+          "end_date": null,
+          "title": {
+            "name": "civil engineer",
+            "functions": ["engineering"],
+            "levels": []
+          },
+          "type": null,
+          "is_primary": true,
+          "locations": [],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": true
+        },
+        {
+          "company": {
+            "name": "buch construction",
+            "size": "51-200",
+            "id": "buchconstruction",
+            "founded": "1984",
+            "industry": "construction",
+            "location": {
+              "locality": "laurel",
+              "region": "maryland",
+              "country": "united states",
+              "street_address": "11292 buch way"
+            },
+            "website": "buch.us.com",
+            "profiles": ["linkedin.com/company/buchconstruction", "linkedin.com/company/1329493"]
+          },
+          "start_date": "2014-06-06",
+          "end_date": null,
+          "title": {
+            "name": "civil engineer intern",
+            "functions": ["engineering"],
+            "levels": ["training"]
+          },
+          "type": null,
+          "is_primary": false,
+          "locations": [
+            {
+              "name": "miami beach, florida, united states",
+              "locality": "miami beach",
+              "region": "florida",
+              "country": "united states",
+              "continent": "north america",
+              "subregion": null,
+              "type": null,
+              "geo": null,
+              "postal_code": null,
+              "zip_plus_4": null,
+              "street_address": null,
+              "address_line_2": null
+            }
+          ],
+          "summaries": [],
+          "last_updated": null,
+          "most_recent": false
+        }
+      ],
+      "labels": {
+        "last_updated": null,
+        "experience_years": "7.0",
+        "salary": "<20,000",
+        "unlock_status": null,
+        "tdfidf": 0.323,
+        "date_score": 4.5399929762484852e-6,
+        "contact_score": 0.2,
+        "final_score": 1.523,
+        "candidate_id": null,
+        "current_job_title_point": 1,
+        "emails": ["slavado@hotmail.com", "silvana_lavado@yahoo.com", "silvana.lavado@yahoo.com"],
+        "blocked_connection": 0,
+        "accepted_connection": 0
+      },
+      "type": "free",
+      "integrationImageLink": "/Web/oc/content/images/globe-icon.svg",
+      "saved": true,
+      "notes": "added from Ekam",
+      "unlocked": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "education": [
+    {
+      "degrees": ["associate"]
+    }
+  ],
+  "id": "cab_7606bf60-a665-3058-a1db-1fb19c3fa9eb",
+  "job": [
+    {
+      "title": {
+        "levels": ["Management Nurse / UM Nurse Trainer", "Medical Staffing Network"],
+        "name": "Management Nurse / UM Nurse Trainer"
+      }
+    }
+  ],
+  "labels": {
+    "candidate_id": "7606bf60-a665-3058-a1db-1fb19c3fa9eb",
+    "contact_score": null,
+    "date_score": null,
+    "experience_years": 23,
+    "final_score": null,
+    "last_updated": "2022-08-04T12:54:07.8Z",
+    "salary": null,
+    "tdfidf": null,
+    "unlock_status": null
+  },
+  "location": "Calumet Park, Illinois",
+  "name": {
+    "first_name": "Tracey Sprowles"
+  },
+  "profiles": {
+    "Edge": [],
+    "ResumeDBDID": [],
+    "ResumeDBWordDocDID": []
+  },
+  "skills": [
+    "management",
+    "nursing",
+    "clinical works",
+    "staffing",
+    "surgeries",
+    "diseases and disorders",
+    "orthopedic surgery",
+    "intensive care unit",
+    "nursing care",
+    "intensive care"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dic_d99697a6eb1f89fbdb68f8f5e97985d7c3b2180f",
+  "job": [
+    {
+      "title": {
+        "levels": ["Nurse", "IP Case Manager", "Nurse"],
+        "name": "Nurse"
+      }
+    }
+  ],
+  "location": "Los Angeles, California, United States",
+  "name": {
+    "first_name": "Lakeisha White"
+  },
+  "skills": ["ip", "utilization management", "authorization", "lvn", "microsoft excel", "software", "customer service", "back office", "billing", "office supplies"]
+}

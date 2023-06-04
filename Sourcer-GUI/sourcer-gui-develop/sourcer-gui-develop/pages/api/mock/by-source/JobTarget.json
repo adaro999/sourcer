@@ -1,0 +1,468 @@
+{
+  "connection": {
+    "connection_time": "2022-06-14 18:46:24",
+    "isBlocked": "",
+    "isConnected": "",
+    "isPending": "True",
+    "jobseeker_id": "866280",
+    "profile_id": "jbt_866280",
+    "recruiter_id": "1050600",
+    "status": "pending"
+  },
+  "current_job_title": "Nurse",
+  "education": [
+    {
+      "degrees": [""],
+      "end_date": "2020-04-01",
+      "end_date_score": 0.00000907998595249697,
+      "gpa": [""],
+      "majors": [""],
+      "minors": [""],
+      "school": {
+        "id": "",
+        "location": "Stratford CT",
+        "name": "Porter and Chester Institute",
+        "profiles": [""],
+        "type": "",
+        "website": ""
+      },
+      "start_date": "",
+      "summaries": [""]
+    }
+  ],
+  "gender": null,
+  "id": "jbt_1133229",
+  "job": [
+    {
+      "company": {
+        "founded": "",
+        "industry": "",
+        "location": {
+          "address1": "",
+          "address2": "",
+          "city": "",
+          "country": "",
+          "latitude": "",
+          "longitude": "",
+          "state": "",
+          "zipcode": ""
+        },
+        "name": "Nuvance Health Norwalk PC Licensed Practical",
+        "size": "",
+        "website": ""
+      },
+      "end_date": "",
+      "end_date_score": 0.00000907998595249697,
+      "is_primary": true,
+      "lastUpdated": [],
+      "mostRecent": false,
+      "start_date": "",
+      "summaries": [],
+      "title": {
+        "functions": ["Health Care", "Registered Nurses"],
+        "levels": [],
+        "name": "Nurse"
+      }
+    },
+    {
+      "company": {
+        "founded": "",
+        "industry": "",
+        "location": {
+          "address1": "",
+          "address2": "",
+          "city": "Stratford",
+          "country": "United States",
+          "latitude": "41.207539",
+          "longitude": "-73.134495",
+          "state": "Connecticut",
+          "zipcode": "06497"
+        },
+        "name": "Lord Chamberlain Nursing Home",
+        "size": "",
+        "website": ""
+      },
+      "end_date": "",
+      "end_date_score": 0.00000907998595249697,
+      "is_primary": false,
+      "lastUpdated": [],
+      "mostRecent": false,
+      "start_date": "",
+      "summaries": [],
+      "title": {
+        "functions": ["Administrative", "Administrative Assistants"],
+        "levels": [],
+        "name": "Assistant"
+      }
+    },
+    {
+      "company": {
+        "founded": "",
+        "industry": "",
+        "location": {
+          "address1": "",
+          "address2": "",
+          "city": "",
+          "country": "",
+          "latitude": "",
+          "longitude": "",
+          "state": "",
+          "zipcode": ""
+        },
+        "name": "Grifin Faculty Practice",
+        "size": "",
+        "website": ""
+      },
+      "end_date": "",
+      "end_date_score": 0.00000907998595249697,
+      "is_primary": false,
+      "lastUpdated": [],
+      "mostRecent": false,
+      "start_date": "",
+      "summaries": [],
+      "title": {
+        "functions": ["Health Care", "Support Services / Operations"],
+        "levels": [],
+        "name": "Medical Assistant"
+      }
+    }
+  ],
+  "labels": {
+    "easy_apply_flag": null,
+    "easy_apply_score": 0,
+    "emails": ["jcarmona1205@aol.com"],
+    "experience_years": "",
+    "last_updated": "2022-02-11T00:00:00",
+    "phone": "203-807-9205",
+    "salary": "",
+    "unlock_status": null
+  },
+  "location": "Bridgeport, Connecticut",
+  "name": {
+    "first_name": "josephine",
+    "last_name": "hall"
+  },
+  "score": {
+    "active_score": 0,
+    "contact_score": 0.22000000000000003,
+    "date_score": 0.00000907998595249697,
+    "final_score": 1.8410090799859526,
+    "job_title_score": 1,
+    "tfidf_score": 0.621
+  },
+  "skills": [
+    "incident reporting",
+    "medication administration",
+    "nursing",
+    "vital signs",
+    "assisted living",
+    "mills",
+    "cardiopulmonary resuscitation (cpr)",
+    "critical thinking",
+    "leadership",
+    "licensed practical nurse"
+  ],
+  "source": {
+    "appName": "HSRS",
+    "creationdate": "2022-02-11 19:39:51.603466",
+    "job_seeker_id": "1133229",
+    "myloc": {
+      "lat": 41.1764,
+      "lon": -73.2008
+    },
+    "response": {
+      "profile": {
+        "educations": [
+          {
+            "degrees": [""],
+            "end_date": "2020-04-01",
+            "end_date_score": 0.00000907998595249697,
+            "gpa": [""],
+            "majors": [""],
+            "minors": [""],
+            "school": {
+              "id": "",
+              "location": "Stratford CT",
+              "name": "Porter and Chester Institute",
+              "profiles": [""],
+              "type": "",
+              "website": ""
+            },
+            "start_date": "",
+            "summaries": [""]
+          }
+        ],
+        "email": "jcarmona1205@aol.com",
+        "emails": [
+          {
+            "email": "jcarmona1205@aol.com",
+            "type": ""
+          }
+        ],
+        "firstName": "Josephine",
+        "image": {
+          "date": "",
+          "link": ""
+        },
+        "jobSeekerId": "1133229",
+        "jobs": [
+          {
+            "company": {
+              "founded": "",
+              "industry": "",
+              "location": {
+                "address1": "",
+                "address2": "",
+                "city": "",
+                "country": "",
+                "latitude": "",
+                "longitude": "",
+                "state": "",
+                "zipcode": ""
+              },
+              "name": "Nuvance Health Norwalk PC Licensed Practical",
+              "size": "",
+              "website": ""
+            },
+            "end_date": "",
+            "end_date_score": 0.00000907998595249697,
+            "is_primary": true,
+            "lastUpdated": [],
+            "mostRecent": false,
+            "start_date": "",
+            "summaries": [],
+            "title": {
+              "functions": ["Health Care", "Registered Nurses"],
+              "levels": [],
+              "name": "Nurse"
+            }
+          },
+          {
+            "company": {
+              "founded": "",
+              "industry": "",
+              "location": {
+                "address1": "",
+                "address2": "",
+                "city": "Stratford",
+                "country": "United States",
+                "latitude": "41.207539",
+                "longitude": "-73.134495",
+                "state": "Connecticut",
+                "zipcode": "06497"
+              },
+              "name": "Lord Chamberlain Nursing Home",
+              "size": "",
+              "website": ""
+            },
+            "end_date": "",
+            "end_date_score": 0.00000907998595249697,
+            "is_primary": false,
+            "lastUpdated": [],
+            "mostRecent": false,
+            "start_date": "",
+            "summaries": [],
+            "title": {
+              "functions": ["Administrative", "Administrative Assistants"],
+              "levels": [],
+              "name": "Assistant"
+            }
+          },
+          {
+            "company": {
+              "founded": "",
+              "industry": "",
+              "location": {
+                "address1": "",
+                "address2": "",
+                "city": "",
+                "country": "",
+                "latitude": "",
+                "longitude": "",
+                "state": "",
+                "zipcode": ""
+              },
+              "name": "Grifin Faculty Practice",
+              "size": "",
+              "website": ""
+            },
+            "end_date": "",
+            "end_date_score": 0.00000907998595249697,
+            "is_primary": false,
+            "lastUpdated": [],
+            "mostRecent": false,
+            "start_date": "",
+            "summaries": [],
+            "title": {
+              "functions": ["Health Care", "Support Services / Operations"],
+              "levels": [],
+              "name": "Medical Assistant"
+            }
+          },
+          {
+            "company": {
+              "founded": "",
+              "industry": "",
+              "location": {
+                "address1": "",
+                "address2": "",
+                "city": "",
+                "country": "",
+                "latitude": "",
+                "longitude": "",
+                "state": "",
+                "zipcode": ""
+              },
+              "name": "Meadow Mills Assisted Living",
+              "size": "",
+              "website": ""
+            },
+            "end_date": "",
+            "is_primary": false,
+            "lastUpdated": [],
+            "mostRecent": false,
+            "start_date": "",
+            "summaries": [],
+            "title": {
+              "functions": ["Health Care", "Registered Nurses"],
+              "levels": [],
+              "name": "Nurse"
+            }
+          },
+          {
+            "company": {
+              "founded": "",
+              "industry": "",
+              "location": {
+                "address1": "",
+                "address2": "",
+                "city": "Milford",
+                "country": "United States",
+                "latitude": "41.2318",
+                "longitude": "-73.0586",
+                "state": "Connecticut",
+                "zipcode": "06460"
+              },
+              "name": "West River Nursing Home",
+              "size": "",
+              "website": ""
+            },
+            "end_date": "",
+            "is_primary": false,
+            "lastUpdated": [],
+            "mostRecent": false,
+            "start_date": "",
+            "summaries": [],
+            "title": {
+              "functions": ["", ""],
+              "levels": [],
+              "name": ""
+            }
+          },
+          {
+            "company": {
+              "founded": "",
+              "industry": "",
+              "location": {
+                "address1": "",
+                "address2": "",
+                "city": "",
+                "country": "",
+                "latitude": "",
+                "longitude": "",
+                "state": "",
+                "zipcode": ""
+              },
+              "name": "Center for Discovery",
+              "size": "",
+              "website": ""
+            },
+            "end_date": "",
+            "is_primary": false,
+            "lastUpdated": [],
+            "mostRecent": false,
+            "start_date": "",
+            "summaries": [],
+            "title": {
+              "functions": ["Health Care", "Registered Nurses"],
+              "levels": [],
+              "name": "Nurse"
+            }
+          }
+        ],
+        "lastName": "Hall",
+        "location": {
+          "address1": "",
+          "address2": "",
+          "city": "Bridgeport",
+          "country": "United States",
+          "latitude": "41.1764",
+          "longitude": "-73.2008",
+          "state": "Connecticut",
+          "zipcode": "06601"
+        },
+        "overview": "",
+        "phone": "203-807-9205",
+        "profileId": "jbt_1133229",
+        "resumes": [
+          {
+            "appId": "1536061",
+            "channel": "",
+            "date": "2022-02-11T00:00:00",
+            "format": ".docx",
+            "jobId": "28921408",
+            "link": "https://jtazresumeblb01.blob.core.windows.net/resume/28921408/e3087078-d78e-4214-8dbb-ca4462b31bd2",
+            "resumeId": "e3087078-d78e-4214-8dbb-ca4462b31bd2",
+            "resumeXml": "https://matchingtools.jobtarget.com/ResumeService/api/profile/downloadProfileJSON/?resumeid=1536061&blob=e3087078-d78e-4214-8dbb-ca4462b31bd2",
+            "source": ""
+          }
+        ],
+        "skills": [
+          {
+            "name": "Incident Reporting"
+          },
+          {
+            "name": "Medication Administration"
+          },
+          {
+            "name": "Nursing"
+          },
+          {
+            "name": "Vital Signs"
+          },
+          {
+            "name": "Assisted Living"
+          },
+          {
+            "name": "mills"
+          },
+          {
+            "name": "Cardiopulmonary resuscitation (CPR)"
+          },
+          {
+            "name": "Critical Thinking"
+          },
+          {
+            "name": "leadership"
+          },
+          {
+            "name": "Licensed Practical Nurse"
+          },
+          {
+            "name": "mental health"
+          },
+          {
+            "name": "problem solving"
+          },
+          {
+            "name": "Wound Care  "
+          }
+        ],
+        "title": "Nurse"
+      }
+    },
+    "resumeDate": "2022-02-11 00:00:00",
+    "resume_id": "e3087078-d78e-4214-8dbb-ca4462b31bd2"
+  },
+  "type": "free"
+}
